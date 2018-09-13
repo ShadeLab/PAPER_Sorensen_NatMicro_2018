@@ -1,0 +1,923 @@
+RefSoil.ID	Phylum	Class	Order	Family	Genus	Species	RefSoil	Aggregate	Size
+923	RefSoil_1	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia	Escherichia coli	RefSoil	Genome.P	4641652
+924	RefSoil_10	Euryarchaeota	Thermoplasmata	Thermoplasmatales	Thermoplasmataceae	Thermoplasma	Thermoplasma volcanium	RefSoil	Genome.P	1584804
+925	RefSoil_100	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Nitrosomonadaceae	Nitrosospira	Nitrosospira multiformis	RefSoil	Genome.P	3234309
+926	RefSoil_101	Proteobacteria	Alphaproteobacteria	Rhizobiales	Brucellaceae	Brucella	Brucella abortus	RefSoil	Genome.P	3278307
+927	RefSoil_102	Firmicutes	Clostridia	Thermoanaerobacterales	Thermoanaerobacteraceae	Moorella	Moorella thermoacetica	RefSoil	Genome.P	2628784
+928	RefSoil_103	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia thailandensis	RefSoil	Genome.P	6723972
+929	RefSoil_104	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanosphaera	Methanosphaera stadtmanae	RefSoil	Genome.P	1767403
+930	RefSoil_105	Proteobacteria	Deltaproteobacteria	Myxococcales	Anaeromyxobacteraceae	Anaeromyxobacter	Anaeromyxobacter dehalogenans	RefSoil	Genome.P	5013479
+931	RefSoil_106	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium	Rhizobium etli	RefSoil	Genome.P	6530228
+932	RefSoil_107	Cyanobacteria		Chroococcales		Synechococcus		RefSoil	Genome.P	2932766
+933	RefSoil_108	Actinobacteria	Actinobacteria	Frankiales	Frankiaceae	Frankia		RefSoil	Genome.P	5433628
+934	RefSoil_109	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Rhodopseudomonas	Rhodopseudomonas palustris	RefSoil	Genome.P	5331656
+935	RefSoil_11	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Bordetella	Bordetella bronchiseptica	RefSoil	Genome.P	5339179
+936	RefSoil_110	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Novosphingobium	Novosphingobium aromaticivorans	RefSoil	Genome.P	4233314
+937	RefSoil_111	Proteobacteria	Alphaproteobacteria	Rickettsiales	Anaplasmataceae	Neorickettsia	Neorickettsia sennetsu	RefSoil	Genome.P	859006
+938	RefSoil_112	Proteobacteria	Gammaproteobacteria	Thiotrichales	Francisellaceae	Francisella	Francisella tularensis	RefSoil	Genome.P	1895994
+939	RefSoil_113	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfitobacterium	Desulfitobacterium hafniense	RefSoil	Genome.P	5727534
+940	RefSoil_114	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Rhodopseudomonas	Rhodopseudomonas palustris	RefSoil	Genome.P	5513844
+941	RefSoil_115	Proteobacteria	Betaproteobacteria	Methylophilales	Methylophilaceae	Methylobacillus	Methylobacillus flagellatus	RefSoil	Genome.P	2971517
+942	RefSoil_116	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Polaromonas		RefSoil	Genome.P	5898676
+943	RefSoil_117	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Rhodopseudomonas	Rhodopseudomonas palustris	RefSoil	Genome.P	4892717
+944	RefSoil_118	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Chromohalobacter	Chromohalobacter salexigens	RefSoil	Genome.P	3696649
+945	RefSoil_119	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Nitrobacter	Nitrobacter hamburgensis	RefSoil	Genome.P	5011522
+946	RefSoil_12	Chloroflexi	Dehalococcoidia	Dehalococcoidales	Dehalococcoidaceae	Dehalococcoides	Dehalococcoides mccartyi	RefSoil	Genome.P	1469720
+947	RefSoil_120	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	Psychrobacter cryohalolentis	RefSoil	Genome.P	3101097
+948	RefSoil_121	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Cupriavidus	Cupriavidus metallidurans	RefSoil	Genome.P	6913352
+949	RefSoil_122	Acidobacteria	Acidobacteriia	Acidobacteriales	Acidobacteriaceae	Candidatus Koribacter	Candidatus Koribacter versatilis	RefSoil	Genome.P	5650368
+950	RefSoil_123	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas entomophila	RefSoil	Genome.P	5888780
+951	RefSoil_124	Proteobacteria	Deltaproteobacteria	Myxococcales	Myxococcaceae	Myxococcus	Myxococcus xanthus	RefSoil	Genome.P	9139763
+952	RefSoil_125	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium		RefSoil	Genome.P	5920523
+953	RefSoil_126	Actinobacteria	Rubrobacteria	Rubrobacterales	Rubrobacteraceae	Rubrobacter	Rubrobacter xylanophilus	RefSoil	Genome.P	3225748
+954	RefSoil_127	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Yersinia	Yersinia pestis	RefSoil	Genome.P	4646286
+955	RefSoil_128	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Yersinia	Yersinia pestis	RefSoil	Genome.P	4879836
+956	RefSoil_129	Proteobacteria	Gammaproteobacteria	Thiotrichales	Francisellaceae	Francisella	Francisella tularensis	RefSoil	Genome.P	1892616
+957	RefSoil_13	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	Desulfovibrio vulgaris	RefSoil	Genome.P	3773159
+958	RefSoil_130	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Chelativorans		RefSoil	Genome.P	4935185
+959	RefSoil_131	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Cytophaga	Cytophaga hutchinsonii	RefSoil	Genome.P	4433218
+960	RefSoil_132	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium perfringens	RefSoil	Genome.P	3256683
+961	RefSoil_133	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus	Rhodococcus jostii	RefSoil	Genome.P	9702737
+962	RefSoil_134	Actinobacteria	Actinobacteria	Frankiales	Frankiaceae	Frankia	Frankia alni	RefSoil	Genome.P	7497934
+963	RefSoil_135	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Cupriavidus	Cupriavidus necator	RefSoil	Genome.P	7416678
+964	RefSoil_136	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Granulibacter	Granulibacter bethesdensis	RefSoil	Genome.P	2708355
+965	RefSoil_137	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium	Rhizobium leguminosarum	RefSoil	Genome.P	7751309
+966	RefSoil_138	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia ambifaria	RefSoil	Genome.P	7528567
+967	RefSoil_139	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Rhodopseudomonas	Rhodopseudomonas palustris	RefSoil	Genome.P	5505494
+968	RefSoil_14	Proteobacteria	Deltaproteobacteria	Desulfuromonadales	Geobacteraceae	Geobacter	Geobacter sulfurreducens	RefSoil	Genome.P	3814128
+969	RefSoil_140	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas aeruginosa	RefSoil	Genome.P	6537648
+970	RefSoil_141	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus brevis	RefSoil	Genome.P	2340228
+971	RefSoil_142	Spirochaetes	Spirochaetia		Leptospiraceae	Leptospira	Leptospira borgpetersenii	RefSoil	Genome.P	3931782
+972	RefSoil_143	Spirochaetes	Spirochaetia		Leptospiraceae	Leptospira	Leptospira borgpetersenii	RefSoil	Genome.P	3876235
+973	RefSoil_144	Acidobacteria	Solibacteres	Solibacterales	Solibacteraceae	Candidatus Solibacter	Candidatus Solibacter usitatus	RefSoil	Genome.P	9965640
+974	RefSoil_145	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Arthrobacter		RefSoil	Genome.P	5070478
+975	RefSoil_146	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia cenocepacia	RefSoil	Genome.P	7702840
+976	RefSoil_147	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium novyi	RefSoil	Genome.P	2547720
+977	RefSoil_148	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium avium	RefSoil	Genome.P	5475491
+978	RefSoil_149	Proteobacteria	Deltaproteobacteria	Desulfuromonadales	Pelobacteraceae	Pelobacter	Pelobacter propionicus	RefSoil	Genome.P	4241119
+979	RefSoil_15	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium avium	RefSoil	Genome.P	4829781
+980	RefSoil_150	Chlorobi	Chlorobia	Chlorobiales	Chlorobiaceae	Chlorobium	Chlorobium phaeobacteroides	RefSoil	Genome.P	3133902
+981	RefSoil_151	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides		RefSoil	Genome.P	5293685
+982	RefSoil_152	Proteobacteria	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella	Shewanella amazonensis	RefSoil	Genome.P	4306142
+983	RefSoil_153	Proteobacteria	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Azoarcus		RefSoil	Genome.P	4376040
+984	RefSoil_154	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium		RefSoil	Genome.P	6256079
+985	RefSoil_155	Spirochaetes	Spirochaetia	Spirochaetales	Borreliaceae	Borrelia	Borrelia turicatae	RefSoil	Genome.P	1165365
+986	RefSoil_156	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Paenarthrobacter	Paenarthrobacter aurescens	RefSoil	Genome.P	5226648
+987	RefSoil_157	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Marinobacter	Marinobacter hydrocarbonoclasticus	RefSoil	Genome.P	4779762
+988	RefSoil_158	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Acidovorax	Acidovorax citrulli	RefSoil	Genome.P	5352772
+989	RefSoil_159	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Polaromonas	Polaromonas naphthalenivorans	RefSoil	Genome.P	5366143
+990	RefSoil_16	Proteobacteria	Gammaproteobacteria	Legionellales	Coxiellaceae	Coxiella	Coxiella burnetii	RefSoil	Genome.P	2032674
+991	RefSoil_160	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Acidovorax		RefSoil	Genome.P	4585154
+992	RefSoil_161	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Verminephrobacter	Verminephrobacter eiseniae	RefSoil	Genome.P	5597943
+993	RefSoil_162	Proteobacteria	Gammaproteobacteria	Chromatiales	Ectothiorhodospiraceae	Halorhodospira	Halorhodospira halophila	RefSoil	Genome.P	2678452
+994	RefSoil_163	Proteobacteria	Betaproteobacteria	Burkholderiales		Methylibium	Methylibium petroleiphilum	RefSoil	Genome.P	4643639
+995	RefSoil_164	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium	Ruminiclostridium thermocellum	RefSoil	Genome.P	3843301
+996	RefSoil_165	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rhodobacter	Rhodobacter sphaeroides	RefSoil	Genome.P	4489380
+997	RefSoil_166	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia pseudomallei	RefSoil	Genome.P	7040403
+998	RefSoil_167	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium		RefSoil	Genome.P	6048425
+999	RefSoil_168	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia pseudomallei	RefSoil	Genome.P	7089249
+1000	RefSoil_169	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Saccharopolyspora	Saccharopolyspora erythraea	RefSoil	Genome.P	8212805
+1001	RefSoil_17	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria monocytogenes	RefSoil	Genome.P	2905187
+1002	RefSoil_170	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia vietnamiensis	RefSoil	Genome.P	8391070
+1003	RefSoil_171	Firmicutes	Bacilli	Bacillales	Bacillaceae	Geobacillus	Geobacillus thermodenitrificans	RefSoil	Genome.P	3608012
+1004	RefSoil_172	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium gilvum	RefSoil	Genome.P	5982829
+1005	RefSoil_173	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium glutamicum	RefSoil	Genome.P	3363299
+1006	RefSoil_174	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Salinispora	Salinispora tropica	RefSoil	Genome.P	5183331
+1007	RefSoil_175	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rhodobacter	Rhodobacter sphaeroides	RefSoil	Genome.P	4557127
+1008	RefSoil_176	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas stutzeri	RefSoil	Genome.P	4567418
+1009	RefSoil_177	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter		RefSoil	Genome.P	4676461
+1010	RefSoil_178	Proteobacteria	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella	Shewanella putrefaciens	RefSoil	Genome.P	4659220
+1011	RefSoil_179	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas mendocina	RefSoil	Genome.P	5072807
+1012	RefSoil_18	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium acetobutylicum	RefSoil	Genome.P	4132880
+1013	RefSoil_180	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium johnsoniae	RefSoil	Genome.P	6096872
+1014	RefSoil_181	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bradyrhizobium		RefSoil	Genome.P	7456587
+1015	RefSoil_182	Chloroflexi	Dehalococcoidia	Dehalococcoidales	Dehalococcoidaceae	Dehalococcoides	Dehalococcoides mccartyi	RefSoil	Genome.P	1341892
+1016	RefSoil_183	Euryarchaeota	Methanomicrobia	Methanocellales	Methanocellaceae	Methanocella	Methanocella arvoryzae	RefSoil	Genome.P	3179916
+1017	RefSoil_184	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Clavibacter	Clavibacter michiganensis	RefSoil	Genome.P	3395237
+1018	RefSoil_185	Proteobacteria	Deltaproteobacteria	Desulfuromonadales	Geobacteraceae	Geobacter	Geobacter uraniireducens	RefSoil	Genome.P	5136364
+1019	RefSoil_186	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Acidiphilium	Acidiphilium cryptum	RefSoil	Genome.P	3963080
+1020	RefSoil_187	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	Legionella pneumophila	RefSoil	Genome.P	3576470
+1021	RefSoil_188	Proteobacteria	Alphaproteobacteria	Rhizobiales	Brucellaceae	Brucella	Brucella ovis	RefSoil	Genome.P	3275590
+1022	RefSoil_189	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Sphingomonas wittichii	RefSoil	Genome.P	5915246
+1023	RefSoil_19	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Agrobacterium	Agrobacterium fabrum	RefSoil	Genome.P	5674258
+1024	RefSoil_190	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas putida	RefSoil	Genome.P	5959964
+1025	RefSoil_191	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobrevibacter	Methanobrevibacter smithii	RefSoil	Genome.P	1853160
+1026	RefSoil_192	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter		RefSoil	Genome.P	2995049
+1027	RefSoil_193	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium tuberculosis	RefSoil	Genome.P	4424435
+1028	RefSoil_194	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium beijerinckii	RefSoil	Genome.P	6000632
+1029	RefSoil_195	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Klebsiella	Klebsiella pneumoniae	RefSoil	Genome.P	5694894
+1030	RefSoil_196	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Oceanospirillaceae	Marinomonas		RefSoil	Genome.P	5100344
+1031	RefSoil_197	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Janthinobacterium		RefSoil	Genome.P	4110251
+1032	RefSoil_198	Actinobacteria	Actinobacteria	Kineosporiales	Kineosporiaceae	Kineococcus	Kineococcus radiotolerans	RefSoil	Genome.P	4956672
+1033	RefSoil_199	Proteobacteria	Alphaproteobacteria	Rhizobiales	Brucellaceae	Ochrobactrum	Ochrobactrum anthropi	RefSoil	Genome.P	5205777
+1034	RefSoil_2	Proteobacteria	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	Rickettsia	Rickettsia prowazekii	RefSoil	Genome.P	1111523
+1035	RefSoil_20	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces avermitilis	RefSoil	Genome.P	9119895
+1036	RefSoil_200	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus cytotoxicus	RefSoil	Genome.P	4094159
+1037	RefSoil_201	Proteobacteria	Deltaproteobacteria	Myxococcales	Anaeromyxobacteraceae	Anaeromyxobacter		RefSoil	Genome.P	5277990
+1038	RefSoil_202	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium botulinum	RefSoil	Genome.P	3760560
+1039	RefSoil_203	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium kluyveri	RefSoil	Genome.P	4023800
+1040	RefSoil_204	Euryarchaeota	Methanomicrobia	Methanomicrobiales	Methanoregulaceae	Methanoregula	Methanoregula boonei	RefSoil	Genome.P	2542943
+1041	RefSoil_205	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter curvus	RefSoil	Genome.P	1971264
+1042	RefSoil_206	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Xanthobacter	Xanthobacter autotrophicus	RefSoil	Genome.P	5625098
+1043	RefSoil_207	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus methylotrophicus	RefSoil	Genome.P	3918589
+1044	RefSoil_208	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Citrobacter	Citrobacter koseri	RefSoil	Genome.P	4735357
+1045	RefSoil_209	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter concisus	RefSoil	Genome.P	2099413
+1046	RefSoil_21	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Salmonella	Salmonella enterica	RefSoil	Genome.P	4951371
+1047	RefSoil_210	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Serratia	Serratia proteamaculans	RefSoil	Genome.P	5495657
+1048	RefSoil_211	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus pumilus	RefSoil	Genome.P	3704464
+1049	RefSoil_212	Proteobacteria	Deltaproteobacteria	Desulfobacterales	Desulfobacteraceae	Desulfococcus	Desulfococcus oleovorans	RefSoil	Genome.P	3944167
+1050	RefSoil_213	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Salinispora	Salinispora arenicola	RefSoil	Genome.P	5786361
+1051	RefSoil_214	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoclostridium	Lachnoclostridium phytofermentans	RefSoil	Genome.P	4847594
+1052	RefSoil_215	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Delftia	Delftia acidovorans	RefSoil	Genome.P	6767514
+1053	RefSoil_216	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia multivorans	RefSoil	Genome.P	7008622
+1054	RefSoil_217	Proteobacteria	Alphaproteobacteria	Rhizobiales	Brucellaceae	Brucella	Brucella canis	RefSoil	Genome.P	3312769
+1055	RefSoil_218	Proteobacteria	Deltaproteobacteria	Myxococcales	Polyangiaceae	Sorangium	Sorangium cellulosum	RefSoil	Genome.P	13033779
+1056	RefSoil_219	Tenericutes	Mollicutes	Acholeplasmatales	Acholeplasmataceae	Acholeplasma	Acholeplasma laidlawii	RefSoil	Genome.P	1496992
+1057	RefSoil_22	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria innocua	RefSoil	Genome.P	3093113
+1058	RefSoil_220	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Renibacterium	Renibacterium salmoninarum	RefSoil	Genome.P	3155250
+1059	RefSoil_221	Proteobacteria	Alphaproteobacteria	Rhizobiales	Brucellaceae	Brucella	Brucella suis	RefSoil	Genome.P	3324607
+1060	RefSoil_222	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Bordetella		RefSoil	Genome.P	5287950
+1061	RefSoil_223	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Methylobacterium	Methylobacterium extorquens	RefSoil	Genome.P	5471154
+1062	RefSoil_224	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus weihenstephanensis	RefSoil	Genome.P	5872743
+1063	RefSoil_225	Firmicutes	Clostridia	Thermoanaerobacterales	Thermoanaerobacteraceae	Thermoanaerobacter		RefSoil	Genome.P	2457259
+1064	RefSoil_226	Firmicutes	Clostridia	Thermoanaerobacterales	Thermoanaerobacteraceae	Thermoanaerobacter	Thermoanaerobacter pseudethanolicus	RefSoil	Genome.P	2362816
+1065	RefSoil_227	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas putida	RefSoil	Genome.P	6078430
+1066	RefSoil_228	Proteobacteria	Gammaproteobacteria	Thiotrichales	Francisellaceae	Francisella	Francisella philomiragia	RefSoil	Genome.P	2049711
+1067	RefSoil_229	Firmicutes	Clostridia	Clostridiales	Heliobacteriaceae	Heliobacterium	Heliobacterium modesticaldum	RefSoil	Genome.P	3075407
+1068	RefSoil_23	Cyanobacteria		Nostocales	Nostocaceae	Nostoc		RefSoil	Genome.P	7211789
+1069	RefSoil_230	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter		RefSoil	Genome.P	5889399
+1070	RefSoil_231	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Candidatus Desulforudis	Candidatus Desulforudis audaxviator	RefSoil	Genome.P	2349476
+1071	RefSoil_232	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Yersinia	Yersinia pseudotuberculosis	RefSoil	Genome.P	4689441
+1072	RefSoil_233	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia	Escherichia coli	RefSoil	Genome.P	4746218
+1073	RefSoil_234	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia	Escherichia coli	RefSoil	Genome.P	4686137
+1074	RefSoil_235	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas putida	RefSoil	Genome.P	5774330
+1075	RefSoil_236	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Methylobacterium	Methylobacterium radiotolerans	RefSoil	Genome.P	6899110
+1076	RefSoil_237	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia cenocepacia	RefSoil	Genome.P	7971389
+1077	RefSoil_238	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Methylobacterium		RefSoil	Genome.P	7737025
+1078	RefSoil_239	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium botulinum	RefSoil	Genome.P	4107013
+1079	RefSoil_24	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Ralstonia	Ralstonia solanacearum	RefSoil	Genome.P	5810922
+1080	RefSoil_240	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium botulinum	RefSoil	Genome.P	4259691
+1081	RefSoil_241	Proteobacteria	Betaproteobacteria	Burkholderiales		Leptothrix	Leptothrix cholodnii	RefSoil	Genome.P	4909403
+1082	RefSoil_242	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Cupriavidus	Cupriavidus taiwanensis	RefSoil	Genome.P	6476522
+1083	RefSoil_243	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia ambifaria	RefSoil	Genome.P	7642536
+1084	RefSoil_244	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Proteus	Proteus mirabilis	RefSoil	Genome.P	4099895
+1085	RefSoil_245	Firmicutes	Bacilli	Bacillales		Exiguobacterium	Exiguobacterium sibiricum	RefSoil	Genome.P	3040786
+1086	RefSoil_246	Verrucomicrobia	Opitutae	Opitutales	Opitutaceae	Opitutus	Opitutus terrae	RefSoil	Genome.P	5957605
+1087	RefSoil_247	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces griseus	RefSoil	Genome.P	8545929
+1088	RefSoil_248	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Xylella	Xylella fastidiosa	RefSoil	Genome.P	2573987
+1089	RefSoil_249	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Beijerinckia	Beijerinckia indica	RefSoil	Genome.P	4418616
+1090	RefSoil_25	Chlamydiae	Chlamydiia	Chlamydiales	Chlamydiaceae	Chlamydophila	Chlamydophila caviae	RefSoil	Genome.P	1181356
+1091	RefSoil_250	Spirochaetes	Spirochaetia		Leptospiraceae	Leptospira	Leptospira biflexa	RefSoil	Genome.P	3951448
+1092	RefSoil_251	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Kocuria	Kocuria rhizophila	RefSoil	Genome.P	2697540
+1093	RefSoil_252	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia phymatum	RefSoil	Genome.P	8676562
+1094	RefSoil_253	Cyanobacteria		Nostocales	Nostocaceae	Nostoc	Nostoc punctiforme	RefSoil	Genome.P	9059191
+1095	RefSoil_254	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Yersinia	Yersinia pseudotuberculosis	RefSoil	Genome.P	4765431
+1096	RefSoil_255	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia phytofirmans	RefSoil	Genome.P	8214658
+1097	RefSoil_256	Proteobacteria	Gammaproteobacteria	Thiotrichales	Francisellaceae	Francisella	Francisella tularensis	RefSoil	Genome.P	1893886
+1098	RefSoil_257	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Ralstonia	Ralstonia pickettii	RefSoil	Genome.P	5325729
+1099	RefSoil_258	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Xanthomonas	Xanthomonas campestris	RefSoil	Genome.P	5079002
+1100	RefSoil_259	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Erwinia	Erwinia tasmaniensis	RefSoil	Genome.P	4067864
+1101	RefSoil_26	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium perfringens	RefSoil	Genome.P	3085740
+1102	RefSoil_260	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Methylobacterium	Methylobacterium populi	RefSoil	Genome.P	5848997
+1103	RefSoil_261	Aquificae	Aquificae	Aquificales	Hydrogenothermaceae	Sulfurihydrogenibium		RefSoil	Genome.P	1838442
+1104	RefSoil_262	Verrucomicrobia		Methylacidiphilales	Methylacidiphilaceae	Methylacidiphilum	Methylacidiphilum infernorum	RefSoil	Genome.P	2287145
+1105	RefSoil_263	Proteobacteria	Deltaproteobacteria	Desulfuromonadales	Geobacteraceae	Geobacter	Geobacter lovleyi	RefSoil	Genome.P	3994874
+1106	RefSoil_264	Spirochaetes	Spirochaetia		Leptospiraceae	Leptospira	Leptospira biflexa	RefSoil	Genome.P	3956089
+1107	RefSoil_265	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	Stenotrophomonas maltophilia	RefSoil	Genome.P	4851126
+1108	RefSoil_266	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium	Rhizobium etli	RefSoil	Genome.P	6448048
+1109	RefSoil_267	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Cellvibrionaceae	Cellvibrio	Cellvibrio japonicus	RefSoil	Genome.P	4576573
+1110	RefSoil_268	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Rhodopseudomonas	Rhodopseudomonas palustris	RefSoil	Genome.P	5744041
+1111	RefSoil_269	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	Stenotrophomonas maltophilia	RefSoil	Genome.P	4573969
+1112	RefSoil_27	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanosarcina	Methanosarcina acetivorans	RefSoil	Genome.P	5751492
+1113	RefSoil_270	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Salmonella	Salmonella enterica	RefSoil	Genome.P	5007719
+1114	RefSoil_271	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Salmonella	Salmonella enterica	RefSoil	Genome.P	4983515
+1115	RefSoil_272	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Salmonella	Salmonella enterica	RefSoil	Genome.P	4823887
+1116	RefSoil_273	Proteobacteria	Deltaproteobacteria	Myxococcales	Anaeromyxobacteraceae	Anaeromyxobacter		RefSoil	Genome.P	5061632
+1117	RefSoil_274	Proteobacteria	Deltaproteobacteria	Desulfuromonadales	Geobacteraceae	Geobacter	Geobacter bemidjiensis	RefSoil	Genome.P	4615150
+1118	RefSoil_275	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Salmonella	Salmonella enterica	RefSoil	Genome.P	4836638
+1119	RefSoil_276	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Salmonella	Salmonella enterica	RefSoil	Genome.P	4917459
+1120	RefSoil_277	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Gluconacetobacter	Gluconacetobacter diazotrophicus	RefSoil	Genome.P	3914947
+1121	RefSoil_278	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium	Rhizobium leguminosarum	RefSoil	Genome.P	6872702
+1122	RefSoil_279	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus cereus	RefSoil	Genome.P	5599857
+1123	RefSoil_28	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanosarcina	Methanosarcina mazei	RefSoil	Genome.P	4096345
+1124	RefSoil_280	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria monocytogenes	RefSoil	Genome.P	2976212
+1125	RefSoil_281	Proteobacteria	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Thauera		RefSoil	Genome.P	4574586
+1126	RefSoil_282	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylocella	Methylocella silvestris	RefSoil	Genome.P	4305430
+1127	RefSoil_283	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus cereus	RefSoil	Genome.P	5419036
+1128	RefSoil_284	Cyanobacteria		Chroococcales		Cyanothece		RefSoil	Genome.P	4787694
+1129	RefSoil_285	Cyanobacteria		Chroococcales		Cyanothece		RefSoil	Genome.P	6554169
+1130	RefSoil_286	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Methylobacterium	Methylobacterium extorquens	RefSoil	Genome.P	6180732
+1131	RefSoil_287	Proteobacteria	Acidithiobacillia	Acidithiobacillales	Acidithiobacillaceae	Acidithiobacillus	Acidithiobacillus ferrooxidans	RefSoil	Genome.P	2982397
+1132	RefSoil_288	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	Desulfovibrio vulgaris	RefSoil	Genome.P	4040304
+1133	RefSoil_289	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas aeruginosa	RefSoil	Genome.P	6601757
+1134	RefSoil_29	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Xanthomonas	Xanthomonas campestris	RefSoil	Genome.P	5076188
+1135	RefSoil_290	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus cereus	RefSoil	Genome.P	5736823
+1136	RefSoil_291	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus cereus	RefSoil	Genome.P	5588834
+1137	RefSoil_292	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfitobacterium	Desulfitobacterium hafniense	RefSoil	Genome.P	5279134
+1138	RefSoil_293	Euryarchaeota	Methanomicrobia	Methanomicrobiales	Methanoregulaceae	Methanosphaerula	Methanosphaerula palustris	RefSoil	Genome.P	2922917
+1139	RefSoil_294	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium kluyveri	RefSoil	Genome.P	3955303
+1140	RefSoil_295	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	[Haemophilus] parasuis	RefSoil	Genome.P	2269156
+1141	RefSoil_296	Cyanobacteria		Chroococcales		Cyanothece		RefSoil	Genome.P	5786110
+1142	RefSoil_297	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Pseudarthrobacter	Pseudarthrobacter chlorophenolicus	RefSoil	Genome.P	4980870
+1143	RefSoil_298	Proteobacteria	Deltaproteobacteria	Myxococcales	Anaeromyxobacteraceae	Anaeromyxobacter	Anaeromyxobacter dehalogenans	RefSoil	Genome.P	5029329
+1144	RefSoil_299	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Methylobacterium	Methylobacterium nodulans	RefSoil	Genome.P	8839022
+1145	RefSoil_3	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus subtilis	RefSoil	Genome.P	4215606
+1146	RefSoil_30	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus cereus	RefSoil	Genome.P	5432652
+1147	RefSoil_300	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium	[Clostridium] cellulolyticum	RefSoil	Genome.P	4068724
+1148	RefSoil_301	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rhodobacter	Rhodobacter sphaeroides	RefSoil	Genome.P	4711139
+1149	RefSoil_302	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus cereus	RefSoil	Genome.P	5506207
+1150	RefSoil_303	Proteobacteria	Deltaproteobacteria	Desulfuromonadales	Geobacteraceae	Geobacter	Geobacter daltonii	RefSoil	Genome.P	4304501
+1151	RefSoil_304	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Agrobacterium	Agrobacterium tumefaciens	RefSoil	Genome.P	7273300
+1152	RefSoil_305	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Agrobacterium	Agrobacterium vitis	RefSoil	Genome.P	6320946
+1153	RefSoil_306	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Acidovorax	Acidovorax ebreus	RefSoil	Genome.P	3796573
+1154	RefSoil_307	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus uberis	RefSoil	Genome.P	1852352
+1155	RefSoil_308	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter lari	RefSoil	Genome.P	1571661
+1156	RefSoil_309	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium bovis	RefSoil	Genome.P	4371711
+1157	RefSoil_31	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus anthracis	RefSoil	Genome.P	5227293
+1158	RefSoil_310	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Erwinia	Erwinia pyrifoliae	RefSoil	Genome.P	4072846
+1159	RefSoil_311	Aquificae	Aquificae	Aquificales	Hydrogenothermaceae	Sulfurihydrogenibium	Sulfurihydrogenibium azorense	RefSoil	Genome.P	1640877
+1160	RefSoil_312	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus cereus	RefSoil	Genome.P	5449308
+1161	RefSoil_313	Acidobacteria	Acidobacteriia	Acidobacteriales	Acidobacteriaceae	Acidobacterium	Acidobacterium capsulatum	RefSoil	Genome.P	4127356
+1162	RefSoil_314	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria monocytogenes	RefSoil	Genome.P	2912690
+1163	RefSoil_315	Gemmatimonadetes	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	Gemmatimonas	Gemmatimonas aurantiaca	RefSoil	Genome.P	4636964
+1164	RefSoil_316	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Brevibacillus	Brevibacillus brevis	RefSoil	Genome.P	6296436
+1165	RefSoil_317	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus	Rhodococcus opacus	RefSoil	Genome.P	8834939
+1166	RefSoil_318	Deinococcus-Thermus	Deinococci	Deinococcales	Deinococcaceae	Deinococcus	Deinococcus deserti	RefSoil	Genome.P	3855329
+1167	RefSoil_319	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Azotobacter	Azotobacter vinelandii	RefSoil	Genome.P	5365318
+1168	RefSoil_32	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas protegens	RefSoil	Genome.P	7074893
+1169	RefSoil_320	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium botulinum	RefSoil	Genome.P	4155278
+1170	RefSoil_321	Crenarchaeota	Thermoprotei	Sulfolobales	Sulfolobaceae	Sulfolobus	Sulfolobus islandicus	RefSoil	Genome.P	2692402
+1171	RefSoil_322	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium botulinum	RefSoil	Genome.P	4257769
+1172	RefSoil_323	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus anthracis	RefSoil	Genome.P	5503926
+1173	RefSoil_324	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fluorescens	RefSoil	Genome.P	6722539
+1174	RefSoil_325	Actinobacteria	Actinobacteria	Micrococcales	Beutenbergiaceae	Beutenbergia	Beutenbergia cavernae	RefSoil	Genome.P	4669183
+1175	RefSoil_326	Firmicutes	Bacilli	Bacillales		Exiguobacterium		RefSoil	Genome.P	2999895
+1176	RefSoil_327	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia glumae	RefSoil	Genome.P	7284636
+1177	RefSoil_328	Crenarchaeota	Thermoprotei	Sulfolobales	Sulfolobaceae	Sulfolobus	Sulfolobus islandicus	RefSoil	Genome.P	2586647
+1178	RefSoil_329	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Klebsiella	Klebsiella pneumoniae	RefSoil	Genome.P	5472672
+1179	RefSoil_33	Firmicutes	Bacilli	Bacillales	Bacillaceae	Oceanobacillus	Oceanobacillus iheyensis	RefSoil	Genome.P	3630528
+1180	RefSoil_330	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Eubacterium	[Eubacterium] eligens	RefSoil	Genome.P	2831389
+1181	RefSoil_331	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Variovorax	Variovorax paradoxus	RefSoil	Genome.P	6754997
+1182	RefSoil_332	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	Desulfovibrio magneticus	RefSoil	Genome.P	5315620
+1183	RefSoil_333	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Micrococcus	Micrococcus luteus	RefSoil	Genome.P	2501097
+1184	RefSoil_334	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium	Rhizobium leguminosarum	RefSoil	Genome.P	7418122
+1185	RefSoil_335	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Ralstonia	Ralstonia pickettii	RefSoil	Genome.P	5685358
+1186	RefSoil_336	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	Desulfovibrio salexigens	RefSoil	Genome.P	4289847
+1187	RefSoil_337	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Pectobacterium	Pectobacterium carotovorum	RefSoil	Genome.P	4862913
+1188	RefSoil_338	Proteobacteria	Deltaproteobacteria	Desulfuromonadales	Geobacteraceae	Geobacter		RefSoil	Genome.P	4745806
+1189	RefSoil_339	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia	Escherichia coli	RefSoil	Genome.P	4570938
+1190	RefSoil_34	Spirochaetes	Spirochaetia		Leptospiraceae	Leptospira	Leptospira interrogans	RefSoil	Genome.P	4698134
+1191	RefSoil_340	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia	Escherichia coli	RefSoil	Genome.P	4629812
+1192	RefSoil_341	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia	Escherichia coli	RefSoil	Genome.P	4558953
+1193	RefSoil_342	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Methylobacterium	Methylobacterium extorquens	RefSoil	Genome.P	6123851
+1194	RefSoil_343	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria meningitidis	RefSoil	Genome.P	2145295
+1195	RefSoil_344	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Pedobacter	Pedobacter heparinus	RefSoil	Genome.P	5167383
+1196	RefSoil_345	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae			RefSoil	Genome.P	2768102
+1197	RefSoil_347	Proteobacteria	Alphaproteobacteria	Rhizobiales	Brucellaceae	Brucella	Brucella microti	RefSoil	Genome.P	3337369
+1198	RefSoil_348	Actinobacteria	Actinobacteria	Catenulisporales	Catenulisporaceae	Catenulispora	Catenulispora acidiphila	RefSoil	Genome.P	10467782
+1199	RefSoil_349	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Chitinophagaceae	Chitinophaga	Chitinophaga pinensis	RefSoil	Genome.P	9127347
+1200	RefSoil_35	Proteobacteria	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella	Shewanella oneidensis	RefSoil	Genome.P	5131424
+1201	RefSoil_350	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Saccharomonospora	Saccharomonospora viridis	RefSoil	Genome.P	4308349
+1202	RefSoil_351	Cyanobacteria		Chroococcales		Cyanothece		RefSoil	Genome.P	4803347
+1203	RefSoil_352	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfomicrobiaceae	Desulfomicrobium	Desulfomicrobium baculatum	RefSoil	Genome.P	3942657
+1204	RefSoil_353	Proteobacteria	Betaproteobacteria			Candidatus Accumulibacter	Candidatus Accumulibacter phosphatis	RefSoil	Genome.P	5306133
+1205	RefSoil_354	Euryarchaeota	Halobacteria	Halobacteriales	Halobacteriaceae	Halomicrobium	Halomicrobium mukohataei	RefSoil	Genome.P	3332349
+1206	RefSoil_355	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Acetobacter	Acetobacter pasteurianus	RefSoil	Genome.P	3340249
+1207	RefSoil_356	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Zymomonas	Zymomonas mobilis	RefSoil	Genome.P	2223520
+1208	RefSoil_357	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Pectobacterium	Pectobacterium wasabiae	RefSoil	Genome.P	5063892
+1209	RefSoil_358	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Comamonas	Comamonas testosteroni	RefSoil	Genome.P	5373644
+1210	RefSoil_359	Actinobacteria	Actinobacteria	Streptosporangiales	Thermomonosporaceae	Thermomonospora	Thermomonospora curvata	RefSoil	Genome.P	5639016
+1211	RefSoil_36	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium efficiens	RefSoil	Genome.P	3219505
+1212	RefSoil_360	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Sulfurospirillum	Sulfurospirillum deleyianum	RefSoil	Genome.P	2306351
+1213	RefSoil_361	Terrabacteria_group				Thermobaculum	Thermobaculum terrenum	RefSoil	Genome.P	3101581
+1214	RefSoil_362	Actinobacteria	Actinobacteria	Micrococcales	Promicromonosporaceae	Xylanimonas	Xylanimonas cellulosilytica	RefSoil	Genome.P	3831380
+1215	RefSoil_363	Chloroflexi	Dehalococcoidia	Dehalococcoidales	Dehalococcoidaceae	Dehalococcoides	Dehalococcoides mccartyi	RefSoil	Genome.P	1413462
+1216	RefSoil_364	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Dickeya	Dickeya zeae	RefSoil	Genome.P	4818394
+1217	RefSoil_365	Actinobacteria	Actinobacteria	Streptosporangiales	Streptosporangiaceae	Streptosporangium	Streptosporangium roseum	RefSoil	Genome.P	10369518
+1218	RefSoil_366	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Xanthomonas	Xanthomonas albilineans	RefSoil	Genome.P	3852299
+1219	RefSoil_367	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Kribbella	Kribbella flavida	RefSoil	Genome.P	7579488
+1220	RefSoil_368	Euryarchaeota	Halobacteria	Natrialbales	Natrialbaceae	Haloterrigena	Haloterrigena turkmenica	RefSoil	Genome.P	5440782
+1221	RefSoil_369	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria monocytogenes	RefSoil	Genome.P	3109678
+1222	RefSoil_37	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bradyrhizobium	Bradyrhizobium diazoefficiens	RefSoil	Genome.P	9105828
+1223	RefSoil_370	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria monocytogenes	RefSoil	Genome.P	2999054
+1224	RefSoil_371	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus pseudofirmus	RefSoil	Genome.P	4249248
+1225	RefSoil_372	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Klebsiella	Klebsiella variicola	RefSoil	Genome.P	5458505
+1226	RefSoil_373	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Azospirillum	Azospirillum lipoferum	RefSoil	Genome.P	7599738
+1227	RefSoil_374	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	Legionella longbeachae	RefSoil	Genome.P	4149158
+1228	RefSoil_375	Chloroflexi	Dehalococcoidia	Dehalococcoidales	Dehalococcoidaceae	Dehalococcoides	Dehalococcoides mccartyi	RefSoil	Genome.P	1360154
+1229	RefSoil_376	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria seeligeri	RefSoil	Genome.P	2797636
+1230	RefSoil_377	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Xenorhabdus	Xenorhabdus bovienii	RefSoil	Genome.P	4225498
+1231	RefSoil_378	Firmicutes	Clostridia	Thermoanaerobacterales	Thermoanaerobacteraceae	Thermoanaerobacter	Thermoanaerobacter italicus	RefSoil	Genome.P	2451061
+1232	RefSoil_379	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces scabiei	RefSoil	Genome.P	10148695
+1233	RefSoil_38	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Pectobacterium	Pectobacterium atrosepticum	RefSoil	Genome.P	5064019
+1234	RefSoil_380	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia	Escherichia coli	RefSoil	Genome.P	5452353
+1235	RefSoil_381	Deferribacteres	Deferribacteres	Deferribacterales	Deferribacteraceae	Denitrovibrio	Denitrovibrio acetiphilus	RefSoil	Genome.P	3222077
+1236	RefSoil_382	Actinobacteria	Actinobacteria	Glycomycetales	Glycomycetaceae	Stackebrandtia	Stackebrandtia nassauensis	RefSoil	Genome.P	6841557
+1237	RefSoil_383	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Erwinia	Erwinia amylovora	RefSoil	Genome.P	3833832
+1238	RefSoil_384	Euryarchaeota	Halobacteria	Haloferacales	Haloferacaceae	Haloferax	Haloferax volcanii	RefSoil	Genome.P	4012900
+1239	RefSoil_385	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Erwinia	Erwinia amylovora	RefSoil	Genome.P	3905604
+1240	RefSoil_386	Cyanobacteria		Nostocales	Nostocaceae	Anabaena	Anabaena variabilis	RefSoil	Genome.P	7142903
+1241	RefSoil_387	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanohalophilus	Methanohalophilus mahii	RefSoil	Genome.P	2012424
+1242	RefSoil_388	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingobium	Sphingobium japonicum	RefSoil	Genome.P	4424862
+1243	RefSoil_389	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus megaterium	RefSoil	Genome.P	5523192
+1244	RefSoil_39	Actinobacteria	Actinobacteria	Micrococcales		Tropheryma	Tropheryma whipplei	RefSoil	Genome.P	925938
+1245	RefSoil_390	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rhodobacter	Rhodobacter capsulatus	RefSoil	Genome.P	3871920
+1246	RefSoil_391	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter	Caulobacter segnis	RefSoil	Genome.P	4655622
+1247	RefSoil_392	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus megaterium	RefSoil	Genome.P	5097447
+1248	RefSoil_393	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia		RefSoil	Genome.P	7884858
+1249	RefSoil_394	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	Legionella pneumophila	RefSoil	Genome.P	3516334
+1250	RefSoil_395	Proteobacteria	Betaproteobacteria	Burkholderiales		Thiomonas		RefSoil	Genome.P	3785534
+1251	RefSoil_396	Actinobacteria	Actinobacteria	Micrococcales	Cellulomonadaceae	Cellulomonas	Cellulomonas flavigena	RefSoil	Genome.P	4123179
+1252	RefSoil_397	Proteobacteria	Betaproteobacteria	Burkholderiales		Thiomonas	Thiomonas intermedia	RefSoil	Genome.P	3462095
+1253	RefSoil_398	Actinobacteria	Actinobacteria	Corynebacteriales	Tsukamurellaceae	Tsukamurella	Tsukamurella paurometabola	RefSoil	Genome.P	4479724
+1254	RefSoil_399	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Arcobacter	Arcobacter nitrofigilis	RefSoil	Genome.P	3192235
+1255	RefSoil_4	Deinococcus-Thermus	Deinococci	Deinococcales	Deinococcaceae	Deinococcus	Deinococcus radiodurans	RefSoil	Genome.P	3284156
+1256	RefSoil_40	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Xylella	Xylella fastidiosa	RefSoil	Genome.P	2521148
+1257	RefSoil_400	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus thuringiensis	RefSoil	Genome.P	5643051
+1258	RefSoil_401	Actinobacteria	Actinobacteria	Streptosporangiales	Nocardiopsaceae	Nocardiopsis	Nocardiopsis dassonvillei	RefSoil	Genome.P	6543312
+1259	RefSoil_402	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Propionibacterium	Propionibacterium freudenreichii	RefSoil	Genome.P	2616384
+1260	RefSoil_403	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Starkeya	Starkeya novella	RefSoil	Genome.P	4765023
+1261	RefSoil_404	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Xenorhabdus	Xenorhabdus nematophila	RefSoil	Genome.P	4587917
+1262	RefSoil_405	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter oleivorans	RefSoil	Genome.P	4152543
+1263	RefSoil_406	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Ralstonia	Ralstonia solanacearum	RefSoil	Genome.P	3417386
+1264	RefSoil_407	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Ralstonia	Ralstonia solanacearum	RefSoil	Genome.P	5605618
+1265	RefSoil_408	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Hyphomicrobium	Hyphomicrobium denitrificans	RefSoil	Genome.P	3638969
+1266	RefSoil_409	Chloroflexi	Dehalococcoidia			Dehalogenimonas	Dehalogenimonas lykanthroporepellens	RefSoil	Genome.P	1686510
+1267	RefSoil_41	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium tetani	RefSoil	Genome.P	2873333
+1268	RefSoil_410	Firmicutes	Bacilli	Lactobacillales	Leuconostocaceae	Leuconostoc	Leuconostoc gelidum	RefSoil	Genome.P	1954080
+1269	RefSoil_411	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium ljungdahlii	RefSoil	Genome.P	4630065
+1270	RefSoil_412	Spirochaetes	Spirochaetia	Brachyspirales	Brachyspiraceae	Brachyspira	Brachyspira pilosicoli	RefSoil	Genome.P	2586443
+1271	RefSoil_413	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Spirochaeta	Spirochaeta smaragdinae	RefSoil	Genome.P	4653970
+1272	RefSoil_414	Proteobacteria	Deltaproteobacteria	Desulfarculales	Desulfarculaceae	Desulfarculus	Desulfarculus baarsii	RefSoil	Genome.P	3655731
+1273	RefSoil_415	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium cellulovorans	RefSoil	Genome.P	5262222
+1274	RefSoil_416	Proteobacteria	Betaproteobacteria	Gallionellales	Gallionellaceae	Gallionella	Gallionella capsiferriformans	RefSoil	Genome.P	3162471
+1275	RefSoil_417	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus subtilis	RefSoil	Genome.P	4027676
+1276	RefSoil_418	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus polymyxa	RefSoil	Genome.P	5394883
+1277	RefSoil_419	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Dickeya	Dickeya dadantii	RefSoil	Genome.P	4922802
+1278	RefSoil_42	Actinobacteria	Actinobacteria	Micrococcales		Tropheryma	Tropheryma whipplei	RefSoil	Genome.P	927303
+1279	RefSoil_420	Cyanobacteria		Chroococcales		Cyanothece		RefSoil	Genome.P	7841948
+1280	RefSoil_421	Euryarchaeota	Methanomicrobia	Methanomicrobiales	Methanomicrobiaceae	Methanolacinia	Methanolacinia petrolearia	RefSoil	Genome.P	2843290
+1281	RefSoil_422	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Halomonas	Halomonas elongata	RefSoil	Genome.P	4061296
+1282	RefSoil_423	Firmicutes	Clostridia	Thermoanaerobacterales	Thermoanaerobacteraceae	Thermoanaerobacter		RefSoil	Genome.P	2456520
+1283	RefSoil_424	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus amyloliquefaciens	RefSoil	Genome.P	3980199
+1284	RefSoil_425	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Peptoclostridium		RefSoil	Genome.P	2715461
+1285	RefSoil_426	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter	Enterobacter lignolyticus	RefSoil	Genome.P	4814049
+1286	RefSoil_427	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus polymyxa	RefSoil	Genome.P	6238510
+1287	RefSoil_428	Proteobacteria	Deltaproteobacteria	Myxococcales	Cystobacteraceae	Stigmatella	Stigmatella aurantiaca	RefSoil	Genome.P	10260756
+1288	RefSoil_429	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Ketogulonicigenium	Ketogulonicigenium vulgare	RefSoil	Genome.P	3288404
+1289	RefSoil_43	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Salmonella	Salmonella enterica	RefSoil	Genome.P	4791961
+1290	RefSoil_430	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Ilyobacter	Ilyobacter polytropus	RefSoil	Genome.P	3132314
+1291	RefSoil_431	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus atrophaeus	RefSoil	Genome.P	4168266
+1292	RefSoil_432	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Achromobacter	Achromobacter xylosoxidans	RefSoil	Genome.P	7359146
+1293	RefSoil_433	Firmicutes	Clostridia	Halanaerobiales	Halanaerobiaceae	Halanaerobium		RefSoil	Genome.P	2613117
+1294	RefSoil_434	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Leadbetterella	Leadbetterella byssophila	RefSoil	Genome.P	4059653
+1295	RefSoil_435	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanothermaceae	Methanothermus	Methanothermus fervidus	RefSoil	Genome.P	1243342
+1296	RefSoil_436	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus	Rhodococcus equi	RefSoil	Genome.P	5043170
+1297	RefSoil_437	Actinobacteria	Actinobacteria	Frankiales	Frankiaceae	Frankia		RefSoil	Genome.P	8815781
+1298	RefSoil_438	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia rhizoxinica	RefSoil	Genome.P	3750138
+1299	RefSoil_439	Proteobacteria	Betaproteobacteria	Methylophilales	Methylophilaceae	Methylovorus		RefSoil	Genome.P	2862391
+1300	RefSoil_44	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides thetaiotaomicron	RefSoil	Genome.P	6293399
+1301	RefSoil_440	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Paludibacter	Paludibacter propionicigenes	RefSoil	Genome.P	3685504
+1302	RefSoil_441	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Micromonospora		RefSoil	Genome.P	6962533
+1303	RefSoil_442	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Asticcacaulis	Asticcacaulis excentricus	RefSoil	Genome.P	4308776
+1304	RefSoil_443	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus cellulosilyticus	RefSoil	Genome.P	4681672
+1305	RefSoil_444	Firmicutes	Clostridia	Clostridiales	Clostridiales Family XVII. Incertae Sedis	Thermaerobacter	Thermaerobacter marianensis	RefSoil	Genome.P	2844696
+1306	RefSoil_445	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	Ruminococcus albus	RefSoil	Genome.P	4482087
+1307	RefSoil_446	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Rhodopseudomonas	Rhodopseudomonas palustris	RefSoil	Genome.P	5404117
+1308	RefSoil_447	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	Desulfovibrio aespoeensis	RefSoil	Genome.P	3629109
+1309	RefSoil_448	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Alicycliphilus	Alicycliphilus denitrificans	RefSoil	Genome.P	4835713
+1310	RefSoil_449	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Pseudoxanthomonas	Pseudoxanthomonas suwonensis	RefSoil	Genome.P	3419049
+1311	RefSoil_45	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus cereus	RefSoil	Genome.P	5427083
+1312	RefSoil_450	Deinococcus-Thermus	Deinococci	Deinococcales	Deinococcaceae	Deinococcus	Deinococcus maricopensis	RefSoil	Genome.P	3498530
+1313	RefSoil_451	Crenarchaeota	Thermoprotei	Desulfurococcales	Desulfurococcaceae	Desulfurococcus	Desulfurococcus mucosus	RefSoil	Genome.P	1314639
+1314	RefSoil_452	Acidobacteria	Acidobacteriia	Acidobacteriales	Acidobacteriaceae	Terriglobus	Terriglobus saanensis	RefSoil	Genome.P	5095226
+1315	RefSoil_453	Proteobacteria	Deltaproteobacteria	Desulfobacterales	Desulfobulbaceae	Desulfobulbus	Desulfobulbus propionicus	RefSoil	Genome.P	3851869
+1316	RefSoil_454	Proteobacteria	Deltaproteobacteria	Desulfuromonadales	Geobacteraceae	Geobacter		RefSoil	Genome.P	5277406
+1317	RefSoil_455	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus subtilis	RefSoil	Genome.P	4093599
+1318	RefSoil_456	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Rahnella		RefSoil	Genome.P	5614252
+1319	RefSoil_457	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia		RefSoil	Genome.P	7253494
+1320	RefSoil_458	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Pseudarthrobacter	Pseudarthrobacter phenanthrenivorans	RefSoil	Genome.P	4535320
+1321	RefSoil_459	Crenarchaeota	Thermoprotei	Thermoproteales	Thermoproteaceae	Vulcanisaeta	Vulcanisaeta moutnovskia	RefSoil	Genome.P	2298983
+1322	RefSoil_46	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Nitrosomonadaceae	Nitrosomonas	Nitrosomonas europaea	RefSoil	Genome.P	2812094
+1323	RefSoil_460	Deinococcus-Thermus	Deinococci	Deinococcales	Deinococcaceae	Deinococcus	Deinococcus proteolyticus	RefSoil	Genome.P	2886836
+1324	RefSoil_461	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Cellulophaga	Cellulophaga lytica	RefSoil	Genome.P	3765936
+1325	RefSoil_462	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Pseudopedobacter	Pseudopedobacter saltans	RefSoil	Genome.P	4635236
+1326	RefSoil_463	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobacterium		RefSoil	Genome.P	2583753
+1327	RefSoil_464	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Nitrosomonadaceae	Nitrosomonas		RefSoil	Genome.P	3337023
+1328	RefSoil_465	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Pseudonocardia	Pseudonocardia dioxanivorans	RefSoil	Genome.P	7303989
+1329	RefSoil_466	Crenarchaeota	Thermoprotei	Thermoproteales	Thermoproteaceae	Thermoproteus	Thermoproteus uzoniensis	RefSoil	Genome.P	1936063
+1330	RefSoil_467	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia gladioli	RefSoil	Genome.P	9052299
+1331	RefSoil_468	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas brassicacearum	RefSoil	Genome.P	6843248
+1332	RefSoil_469	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium botulinum	RefSoil	Genome.P	3207592
+1333	RefSoil_47	Proteobacteria	Betaproteobacteria	Neisseriales	Chromobacteriaceae	Chromobacterium	Chromobacterium violaceum	RefSoil	Genome.P	4751080
+1334	RefSoil_470	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus suis	RefSoil	Genome.P	2028815
+1335	RefSoil_471	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Gallibacterium	Gallibacterium anatis	RefSoil	Genome.P	2694139
+1336	RefSoil_472	Euryarchaeota	Thermococci	Thermococcales	Thermococcaceae	Pyrococcus		RefSoil	Genome.P	1861320
+1337	RefSoil_473	Firmicutes	Clostridia	Thermoanaerobacterales	Thermoanaerobacterales Family IV. Incertae Sedis	Mahella	Mahella australiensis	RefSoil	Genome.P	3135972
+1338	RefSoil_474	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Delftia		RefSoil	Genome.P	6685842
+1339	RefSoil_475	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfotomaculum	Desulfotomaculum nigrificans	RefSoil	Genome.P	2892255
+1340	RefSoil_476	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Serratia	Serratia plymuthica	RefSoil	Genome.P	5442880
+1341	RefSoil_477	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfotomaculum	Desulfotomaculum kuznetsovii	RefSoil	Genome.P	3601386
+1342	RefSoil_478	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	Treponema azotonutricium	RefSoil	Genome.P	3855671
+1343	RefSoil_479	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	Treponema primitia	RefSoil	Genome.P	4059867
+1344	RefSoil_48	Cyanobacteria	Gloeobacteria	Gloeobacterales		Gloeobacter	Gloeobacter violaceus	RefSoil	Genome.P	4659019
+1345	RefSoil_480	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Novosphingobium		RefSoil	Genome.P	5313905
+1346	RefSoil_481	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfotomaculum	Desulfotomaculum ruminis	RefSoil	Genome.P	3969014
+1347	RefSoil_482	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Sinorhizobium	Sinorhizobium meliloti	RefSoil	Genome.P	7140471
+1348	RefSoil_483	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingobium	Sphingobium chlorophenolicum	RefSoil	Genome.P	4573221
+1349	RefSoil_484	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Erysipelothrix	Erysipelothrix rhusiopathiae	RefSoil	Genome.P	1787941
+1350	RefSoil_485	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus coagulans	RefSoil	Genome.P	3073079
+1351	RefSoil_486	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Microlunatus	Microlunatus phosphovorus	RefSoil	Genome.P	5683123
+1352	RefSoil_487	Actinobacteria	Actinobacteria	Frankiales	Frankiaceae	Frankia		RefSoil	Genome.P	5340989
+1353	RefSoil_488	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Mesorhizobium	Mesorhizobium opportunistum	RefSoil	Genome.P	6884444
+1354	RefSoil_489	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanosalsum	Methanosalsum zhilinae	RefSoil	Genome.P	2138444
+1355	RefSoil_49	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Rhodopseudomonas	Rhodopseudomonas palustris	RefSoil	Genome.P	5467640
+1356	RefSoil_490	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Ramlibacter	Ramlibacter tataouinensis	RefSoil	Genome.P	4070193
+1357	RefSoil_491	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium ulcerans	RefSoil	Genome.P	2606374
+1358	RefSoil_492	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Oligotropha	Oligotropha carboxidovorans	RefSoil	Genome.P	3896074
+1359	RefSoil_493	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium acetobutylicum	RefSoil	Genome.P	4145581
+1360	RefSoil_494	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus mucilaginosus	RefSoil	Genome.P	8663821
+1361	RefSoil_495	Proteobacteria	Gammaproteobacteria	Thiotrichales	Francisellaceae	Francisella		RefSoil	Genome.P	2035931
+1362	RefSoil_496	Thermotogae	Thermotogae	Thermotogales	Thermotogaceae	Pseudothermotoga	Pseudothermotoga thermarum	RefSoil	Genome.P	2039943
+1363	RefSoil_497	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Hyphomicrobium		RefSoil	Genome.P	4757528
+1364	RefSoil_498	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Cupriavidus	Cupriavidus necator	RefSoil	Genome.P	8480857
+1365	RefSoil_499	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas putida	RefSoil	Genome.P	5984790
+1366	RefSoil_5	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Xylella	Xylella fastidiosa	RefSoil	Genome.P	2731750
+1367	RefSoil_50	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bdellovibrionaceae	Bdellovibrio	Bdellovibrio bacteriovorus	RefSoil	Genome.P	3782950
+1368	RefSoil_500	Firmicutes	Bacilli	Lactobacillales	Leuconostocaceae	Leuconostoc		RefSoil	Genome.P	1877273
+1369	RefSoil_501	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium africanum	RefSoil	Genome.P	4389314
+1370	RefSoil_502	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	Capnocytophaga canimorsus	RefSoil	Genome.P	2571406
+1371	RefSoil_503	Euryarchaeota	Methanococci	Methanococcales	Methanococcaceae	Methanococcus	Methanococcus maripaludis	RefSoil	Genome.P	1746697
+1372	RefSoil_504	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Collimonas	Collimonas fungivorans	RefSoil	Genome.P	5186898
+1373	RefSoil_505	Proteobacteria	Alphaproteobacteria	Rhizobiales	Brucellaceae	Brucella	Brucella pinnipedialis	RefSoil	Genome.P	3399268
+1374	RefSoil_506	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium variabile	RefSoil	Genome.P	3433007
+1375	RefSoil_507	Proteobacteria	Acidithiobacillia	Acidithiobacillales	Acidithiobacillaceae	Acidithiobacillus	Acidithiobacillus ferrivorans	RefSoil	Genome.P	3207552
+1376	RefSoil_508	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	Stenotrophomonas maltophilia	RefSoil	Genome.P	4544477
+1377	RefSoil_509	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces		RefSoil	Genome.P	7414440
+1378	RefSoil_51	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas savastanoi	RefSoil	Genome.P	6112448
+1379	RefSoil_510	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces violaceusniger	RefSoil	Genome.P	11138313
+1380	RefSoil_511	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingobium		RefSoil	Genome.P	4348133
+1381	RefSoil_512	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium branchiophilum	RefSoil	Genome.P	3563292
+1382	RefSoil_513	Proteobacteria	Betaproteobacteria	Neisseriales	Chromobacteriaceae	Pseudogulbenkiania		RefSoil	Genome.P	4332995
+1383	RefSoil_514	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus coagulans	RefSoil	Genome.P	3552226
+1384	RefSoil_515	Acidobacteria	Blastocatellia			Chloracidobacterium	Chloracidobacterium thermophilum	RefSoil	Genome.P	3695372
+1385	RefSoil_516	Proteobacteria	Alphaproteobacteria			Micavibrio	Micavibrio aeruginosavorus	RefSoil	Genome.P	2481983
+1386	RefSoil_517	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus subtilis	RefSoil	Genome.P	4207222
+1387	RefSoil_518	Crenarchaeota	Thermoprotei	Thermoproteales	Thermoproteaceae	Thermoproteus	Thermoproteus tenax	RefSoil	Genome.P	1841542
+1388	RefSoil_519	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Kitasatospora	Kitasatospora setae	RefSoil	Genome.P	8783278
+1389	RefSoil_52	Spirochaetes	Spirochaetia		Leptospiraceae	Leptospira	Leptospira interrogans	RefSoil	Genome.P	4627366
+1390	RefSoil_520	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces cattleya	RefSoil	Genome.P	8092553
+1391	RefSoil_521	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces pratensis	RefSoil	Genome.P	7656104
+1392	RefSoil_522	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Pseudoxanthomonas	Pseudoxanthomonas spadix	RefSoil	Genome.P	3452554
+1393	RefSoil_523	Synergistetes	Synergistia	Synergistales	Synergistaceae	Thermovirga	Thermovirga lienii	RefSoil	Genome.P	1999646
+1394	RefSoil_525	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium columnare	RefSoil	Genome.P	3162432
+1395	RefSoil_526	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter	Enterobacter cloacae	RefSoil	Genome.P	4798091
+1396	RefSoil_527	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces bingchenggensis	RefSoil	Genome.P	11936683
+1397	RefSoil_528	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfosporosinus	Desulfosporosinus orientis	RefSoil	Genome.P	5863081
+1398	RefSoil_529	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium rhodesiae	RefSoil	Genome.P	6415739
+1399	RefSoil_53	Chlamydiae	Chlamydiia	Chlamydiales	Parachlamydiaceae	Candidatus Protochlamydia	Candidatus Protochlamydia amoebophila	RefSoil	Genome.P	2414465
+1400	RefSoil_530	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Chitinophagaceae	Niastella	Niastella koreensis	RefSoil	Genome.P	9033684
+1401	RefSoil_531	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Klebsiella	Klebsiella oxytoca	RefSoil	Genome.P	5974109
+1402	RefSoil_532	Proteobacteria	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Azospira	Azospira oryzae	RefSoil	Genome.P	3806980
+1403	RefSoil_533	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Azospirillum	Azospirillum brasilense	RefSoil	Genome.P	7530241
+1404	RefSoil_534	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Halobacteriovoraceae	Halobacteriovorax	Halobacteriovorax marinus	RefSoil	Genome.P	3437906
+1405	RefSoil_535	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Azospirillum	Azospirillum lipoferum	RefSoil	Genome.P	6846400
+1406	RefSoil_536	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia		RefSoil	Genome.P	8896411
+1407	RefSoil_537	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium	[Clostridium] clariflavum	RefSoil	Genome.P	4897678
+1408	RefSoil_538	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	Desulfovibrio africanus	RefSoil	Genome.P	4200534
+1409	RefSoil_539	Acidobacteria	Acidobacteriia	Acidobacteriales	Acidobacteriaceae	Granulicella	Granulicella mallensis	RefSoil	Genome.P	6237577
+1410	RefSoil_54	Euryarchaeota	Thermoplasmata	Thermoplasmatales	Picrophilaceae	Picrophilus	Picrophilus torridus	RefSoil	Genome.P	1545895
+1411	RefSoil_540	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus terrae	RefSoil	Genome.P	6083395
+1412	RefSoil_541	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus cereus	RefSoil	Genome.P	5552031
+1413	RefSoil_542	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus cereus	RefSoil	Genome.P	5288498
+1414	RefSoil_543	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus methylotrophicus	RefSoil	Genome.P	4019861
+1415	RefSoil_544	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium diphtheriae	RefSoil	Genome.P	2395441
+1416	RefSoil_545	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium diphtheriae	RefSoil	Genome.P	2485519
+1417	RefSoil_546	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium diphtheriae	RefSoil	Genome.P	2499189
+1418	RefSoil_547	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	Legionella pneumophila	RefSoil	Genome.P	3359001
+1419	RefSoil_548	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Sinorhizobium	Sinorhizobium fredii	RefSoil	Genome.P	6631846
+1420	RefSoil_549	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Pantoea	Pantoea ananatis	RefSoil	Genome.P	4908144
+1421	RefSoil_55	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus anthracis	RefSoil	Genome.P	5228663
+1422	RefSoil_550	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus infantarius	RefSoil	Genome.P	2008249
+1423	RefSoil_551	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fluorescens	RefSoil	Genome.P	6845832
+1424	RefSoil_552	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Salmonella	Salmonella enterica	RefSoil	Genome.P	4637962
+1425	RefSoil_553	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Salmonella	Salmonella enterica	RefSoil	Genome.P	4949783
+1426	RefSoil_554	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Salmonella	Salmonella enterica	RefSoil	Genome.P	4879400
+1427	RefSoil_555	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Salmonella	Salmonella enterica	RefSoil	Genome.P	4964097
+1428	RefSoil_556	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Salmonella	Salmonella enterica	RefSoil	Genome.P	5067451
+1429	RefSoil_557	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Salmonella	Salmonella enterica	RefSoil	Genome.P	5069994
+1430	RefSoil_558	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Salmonella	Salmonella enterica	RefSoil	Genome.P	4911145
+1431	RefSoil_559	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Nocardia	Nocardia cyriacigeorgica	RefSoil	Genome.P	6194645
+1432	RefSoil_56	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		RefSoil	Genome.P	3598621
+1433	RefSoil_560	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Acetobacterium	Acetobacterium woodii	RefSoil	Genome.P	4044777
+1434	RefSoil_561	Actinobacteria	Actinobacteria	Corynebacteriales	Gordoniaceae	Gordonia	Gordonia polyisoprenivorans	RefSoil	Genome.P	5844299
+1435	RefSoil_562	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus mucilaginosus	RefSoil	Genome.P	8739048
+1436	RefSoil_563	Actinobacteria	Actinobacteria	Geodermatophilales	Geodermatophilaceae	Blastococcus	Blastococcus saxobsidens	RefSoil	Genome.P	4875340
+1437	RefSoil_564	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium intracellulare	RefSoil	Genome.P	5402402
+1438	RefSoil_565	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium intracellulare	RefSoil	Genome.P	5409696
+1439	RefSoil_566	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium intracellulare	RefSoil	Genome.P	5501090
+1440	RefSoil_567	Proteobacteria	Deltaproteobacteria	Myxococcales	Myxococcaceae	Corallococcus	Corallococcus coralloides	RefSoil	Genome.P	10080619
+1441	RefSoil_568	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium pseudotuberculosis	RefSoil	Genome.P	2337657
+1442	RefSoil_569	Euryarchaeota	Methanomicrobia	Methanocellales	Methanocellaceae	Methanocella	Methanocella conradii	RefSoil	Genome.P	2378438
+1443	RefSoil_570	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Salmonella	Salmonella enterica	RefSoil	Genome.P	4970096
+1444	RefSoil_571	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Rahnella	Rahnella aquatilis	RefSoil	Genome.P	5656799
+1445	RefSoil_572	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Pararhodospirillum	Pararhodospirillum photometricum	RefSoil	Genome.P	3876289
+1446	RefSoil_573	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus methylotrophicus	RefSoil	Genome.P	4242774
+1447	RefSoil_574	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bradyrhizobium		RefSoil	Genome.P	7231841
+1448	RefSoil_575	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Actinoplanes	Actinoplanes missouriensis	RefSoil	Genome.P	8773466
+1449	RefSoil_576	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	Leptospirillum	Leptospirillum ferrooxidans	RefSoil	Genome.P	2559538
+1450	RefSoil_577	Thermotogae	Thermotogae	Thermotogales	Fervidobacteriaceae	Fervidobacterium	Fervidobacterium pennivorans	RefSoil	Genome.P	2166381
+1451	RefSoil_578	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Acetobacter	Acetobacter pasteurianus	RefSoil	Genome.P	3339669
+1452	RefSoil_579	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Acetobacter	Acetobacter pasteurianus	RefSoil	Genome.P	3336990
+1453	RefSoil_580	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Acetobacter	Acetobacter pasteurianus	RefSoil	Genome.P	3337040
+1454	RefSoil_581	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Acetobacter	Acetobacter pasteurianus	RefSoil	Genome.P	3338426
+1455	RefSoil_582	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Acetobacter	Acetobacter pasteurianus	RefSoil	Genome.P	3339649
+1456	RefSoil_583	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Acetobacter	Acetobacter pasteurianus	RefSoil	Genome.P	3339683
+1457	RefSoil_584	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Acetobacter	Acetobacter pasteurianus	RefSoil	Genome.P	3247995
+1458	RefSoil_585	Aquificae	Aquificae	Aquificales	Aquificaceae	Hydrogenobacter	Hydrogenobacter thermophilus	RefSoil	Genome.P	1742932
+1459	RefSoil_586	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Yersinia	Yersinia pestis	RefSoil	Genome.P	4658411
+1460	RefSoil_587	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus amyloliquefaciens	RefSoil	Genome.P	3937511
+1461	RefSoil_588	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus amyloliquefaciens	RefSoil	Genome.P	4001985
+1462	RefSoil_589	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus amyloliquefaciens	RefSoil	Genome.P	3939203
+1463	RefSoil_590	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus subtilis	RefSoil	Genome.P	4011949
+1464	RefSoil_591	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus subtilis	RefSoil	Genome.P	4111218
+1465	RefSoil_592	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus thuringiensis	RefSoil	Genome.P	5682383
+1466	RefSoil_593	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus thuringiensis	RefSoil	Genome.P	6151150
+1467	RefSoil_594	Proteobacteria	Alphaproteobacteria	Rhizobiales	Brucellaceae	Brucella	Brucella melitensis	RefSoil	Genome.P	3312229
+1468	RefSoil_595	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bradyrhizobium	Bradyrhizobium japonicum	RefSoil	Genome.P	9207384
+1469	RefSoil_596	Crenarchaeota	Thermoprotei	Sulfolobales	Sulfolobaceae	Sulfolobus	Sulfolobus islandicus	RefSoil	Genome.P	2655201
+1470	RefSoil_597	Crenarchaeota	Thermoprotei	Sulfolobales	Sulfolobaceae	Sulfolobus	Sulfolobus islandicus	RefSoil	Genome.P	2522992
+1471	RefSoil_598	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium acetobutylicum	RefSoil	Genome.P	4132226
+1472	RefSoil_599	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium botulinum	RefSoil	Genome.P	3919740
+1473	RefSoil_6	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas aeruginosa	RefSoil	Genome.P	6264404
+1474	RefSoil_60	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Yersinia	Yersinia pseudotuberculosis	RefSoil	Genome.P	4840898
+1475	RefSoil_600	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium pseudotuberculosis	RefSoil	Genome.P	2335113
+1476	RefSoil_601	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	Desulfovibrio vulgaris	RefSoil	Genome.P	3734357
+1477	RefSoil_602	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium ulcerans	RefSoil	Genome.P	2502095
+1478	RefSoil_603	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Sinorhizobium	Sinorhizobium meliloti	RefSoil	Genome.P	6978785
+1479	RefSoil_604	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Sinorhizobium	Sinorhizobium meliloti	RefSoil	Genome.P	7173736
+1480	RefSoil_605	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Ketogulonicigenium	Ketogulonicigenium vulgare	RefSoil	Genome.P	3277101
+1481	RefSoil_606	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Erwinia	Erwinia pyrifoliae	RefSoil	Genome.P	4072827
+1482	RefSoil_607	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Erwinia		RefSoil	Genome.P	3957675
+1483	RefSoil_608	Proteobacteria	Gammaproteobacteria	Thiotrichales	Francisellaceae	Francisella	Francisella tularensis	RefSoil	Genome.P	1945310
+1484	RefSoil_609	Proteobacteria	Gammaproteobacteria	Thiotrichales	Francisellaceae	Francisella	Francisella tularensis	RefSoil	Genome.P	1913619
+1485	RefSoil_61	Firmicutes	Clostridia	Clostridiales	Symbiobacteriaceae	Symbiobacterium	Symbiobacterium thermophilum	RefSoil	Genome.P	3566135
+1486	RefSoil_610	Proteobacteria	Deltaproteobacteria	Desulfuromonadales	Geobacteraceae	Geobacter	Geobacter sulfurreducens	RefSoil	Genome.P	3714272
+1487	RefSoil_611	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria monocytogenes	RefSoil	Genome.P	2979198
+1488	RefSoil_612	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas putida	RefSoil	Genome.P	5731541
+1489	RefSoil_613	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Pantoea	Pantoea ananatis	RefSoil	Genome.P	4877280
+1490	RefSoil_614	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas stutzeri	RefSoil	Genome.P	4689946
+1491	RefSoil_615	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria monocytogenes	RefSoil	Genome.P	2976163
+1492	RefSoil_616	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus polymyxa	RefSoil	Genome.P	6231122
+1493	RefSoil_617	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria monocytogenes	RefSoil	Genome.P	2903106
+1494	RefSoil_618	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria monocytogenes	RefSoil	Genome.P	3000464
+1495	RefSoil_619	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria monocytogenes	RefSoil	Genome.P	2973801
+1496	RefSoil_62	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus cereus	RefSoil	Genome.P	5843235
+1497	RefSoil_620	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria monocytogenes	RefSoil	Genome.P	2874431
+1498	RefSoil_621	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas aeruginosa	RefSoil	Genome.P	6327754
+1499	RefSoil_622	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas aeruginosa	RefSoil	Genome.P	6764661
+1500	RefSoil_623	Spirochaetes	Spirochaetia		Leptospiraceae	Leptospira	Leptospira interrogans	RefSoil	Genome.P	4708530
+1501	RefSoil_624	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Ralstonia	Ralstonia solanacearum	RefSoil	Genome.P	5821250
+1502	RefSoil_625	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Ralstonia	Ralstonia solanacearum	RefSoil	Genome.P	5430263
+1503	RefSoil_626	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia	Escherichia coli	RefSoil	Genome.P	4971461
+1504	RefSoil_627	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia	Escherichia coli	RefSoil	Genome.P	5038386
+1505	RefSoil_628	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia	Escherichia coli	RefSoil	Genome.P	5005347
+1506	RefSoil_629	Firmicutes	Bacilli	Bacillales	Bacillaceae	Halobacillus	Halobacillus halophilus	RefSoil	Genome.P	4170008
+1507	RefSoil_63	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus licheniformis	RefSoil	Genome.P	4222645
+1508	RefSoil_630	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	Stenotrophomonas maltophilia	RefSoil	Genome.P	4769156
+1509	RefSoil_631	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus mucilaginosus	RefSoil	Genome.P	8819200
+1510	RefSoil_632	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus anthracis	RefSoil	Genome.P	5495471
+1511	RefSoil_633	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus		RefSoil	Genome.P	4120406
+1512	RefSoil_634	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces hygroscopicus	RefSoil	Genome.P	10383684
+1513	RefSoil_635	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Solitalea	Solitalea canadensis	RefSoil	Genome.P	5202069
+1514	RefSoil_636	Deinococcus-Thermus	Deinococci	Deinococcales	Deinococcaceae	Deinococcus	Deinococcus gobiensis	RefSoil	Genome.P	4406036
+1515	RefSoil_637	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Actinoplanes		RefSoil	Genome.P	9239851
+1516	RefSoil_638	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Pectobacterium		RefSoil	Genome.P	5164411
+1517	RefSoil_639	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fluorescens	RefSoil	Genome.P	6019547
+1518	RefSoil_64	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia pseudomallei	RefSoil	Genome.P	7247547
+1519	RefSoil_640	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus amyloliquefaciens	RefSoil	Genome.P	4238624
+1520	RefSoil_641	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia		RefSoil	Genome.P	6629912
+1521	RefSoil_642	Actinobacteria	Actinobacteria	Geodermatophilales	Geodermatophilaceae	Modestobacter		RefSoil	Genome.P	5575517
+1522	RefSoil_643	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Advenella	Advenella kashmirensis	RefSoil	Genome.P	4423879
+1523	RefSoil_644	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas putida	RefSoil	Genome.P	6202452
+1524	RefSoil_645	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Sinorhizobium	Sinorhizobium fredii	RefSoil	Genome.P	6476459
+1525	RefSoil_646	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Sulfurospirillum	Sulfurospirillum barnesii	RefSoil	Genome.P	2510109
+1526	RefSoil_647	Acidobacteria	Acidobacteriia	Acidobacteriales	Acidobacteriaceae	Terriglobus	Terriglobus roseus	RefSoil	Genome.P	5227858
+1527	RefSoil_648	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfitobacterium	Desulfitobacterium dehalogenans	RefSoil	Genome.P	4321753
+1528	RefSoil_649	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium chubuense	RefSoil	Genome.P	6342624
+1529	RefSoil_65	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Nocardia	Nocardia farcinica	RefSoil	Genome.P	6292344
+1530	RefSoil_650	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas stutzeri	RefSoil	Genome.P	4709064
+1531	RefSoil_651	Firmicutes	Bacilli	Bacillales	Planococcaceae	Solibacillus	Solibacillus silvestris	RefSoil	Genome.P	3984229
+1532	RefSoil_652	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfosporosinus	Desulfosporosinus acidiphilus	RefSoil	Genome.P	4991181
+1533	RefSoil_653	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter	Enterobacter cloacae	RefSoil	Genome.P	4968248
+1534	RefSoil_654	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas aeruginosa	RefSoil	Genome.P	6402658
+1535	RefSoil_655	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	Legionella pneumophila	RefSoil	Genome.P	3617686
+1536	RefSoil_656	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	Legionella pneumophila	RefSoil	Genome.P	3492535
+1537	RefSoil_657	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium tuberculosis	RefSoil	Genome.P	4411709
+1538	RefSoil_658	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium abscessus	RefSoil	Genome.P	4687873
+1539	RefSoil_659	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas stutzeri	RefSoil	Genome.P	4174118
+1540	RefSoil_66	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	Legionella pneumophila	RefSoil	Genome.P	3635495
+1541	RefSoil_660	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Amycolatopsis	Amycolatopsis mediterranei	RefSoil	Genome.P	10246920
+1542	RefSoil_661	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium smegmatis	RefSoil	Genome.P	6988208
+1543	RefSoil_662	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylocystaceae	Methylocystis		RefSoil	Genome.P	3773444
+1544	RefSoil_663	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus cereus	RefSoil	Genome.P	5382319
+1545	RefSoil_664	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus thuringiensis	RefSoil	Genome.P	6438373
+1546	RefSoil_665	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus thuringiensis	RefSoil	Genome.P	6334630
+1547	RefSoil_666	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia cepacia	RefSoil	Genome.P	6467321
+1548	RefSoil_667	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfosporosinus	Desulfosporosinus meridiei	RefSoil	Genome.P	4873567
+1549	RefSoil_668	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Pectobacterium	Pectobacterium carotovorum	RefSoil	Genome.P	4842771
+1550	RefSoil_669	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia pseudomallei	RefSoil	Genome.P	7155061
+1551	RefSoil_67	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	Legionella pneumophila	RefSoil	Genome.P	3405519
+1552	RefSoil_670	Actinobacteria	Actinobacteria	Corynebacteriales	Gordoniaceae	Gordonia		RefSoil	Genome.P	5885710
+1553	RefSoil_671	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria monocytogenes	RefSoil	Genome.P	2951805
+1554	RefSoil_672	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria monocytogenes	RefSoil	Genome.P	2941360
+1555	RefSoil_673	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria monocytogenes	RefSoil	Genome.P	2976958
+1556	RefSoil_674	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria monocytogenes	RefSoil	Genome.P	3023926
+1557	RefSoil_675	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria monocytogenes	RefSoil	Genome.P	3022910
+1558	RefSoil_676	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria monocytogenes	RefSoil	Genome.P	2972172
+1559	RefSoil_677	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria monocytogenes	RefSoil	Genome.P	2986789
+1560	RefSoil_678	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria monocytogenes	RefSoil	Genome.P	2882234
+1561	RefSoil_679	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Riemerella	Riemerella anatipestifer	RefSoil	Genome.P	2309519
+1562	RefSoil_68	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Salmonella	Salmonella enterica	RefSoil	Genome.P	4585229
+1563	RefSoil_680	Chlamydiae	Chlamydiia	Chlamydiales	Chlamydiaceae	Chlamydia	Chlamydia psittaci	RefSoil	Genome.P	1179818
+1564	RefSoil_681	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria monocytogenes	RefSoil	Genome.P	2912346
+1565	RefSoil_682	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	Leptospirillum	Leptospirillum ferriphilum	RefSoil	Genome.P	2406157
+1566	RefSoil_683	Firmicutes	Clostridia	Clostridiales		Gottschalkia	Gottschalkia acidurici	RefSoil	Genome.P	3108248
+1567	RefSoil_684	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia phenoliruptrix	RefSoil	Genome.P	7651131
+1568	RefSoil_685	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Nocardia	Nocardia brasiliensis	RefSoil	Genome.P	9436348
+1569	RefSoil_686	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus thuringiensis	RefSoil	Genome.P	6694533
+1570	RefSoil_687	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Sinorhizobium	Sinorhizobium meliloti	RefSoil	Genome.P	7149690
+1571	RefSoil_688	Firmicutes	Bacilli	Bacillales	Bacillaceae	Amphibacillus	Amphibacillus xylanus	RefSoil	Genome.P	2569486
+1572	RefSoil_689	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Acidovorax		RefSoil	Genome.P	5196935
+1573	RefSoil_69	Proteobacteria	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Aromatoleum	Aromatoleum aromaticum	RefSoil	Genome.P	4727255
+1574	RefSoil_690	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter jejuni	RefSoil	Genome.P	1635301
+1575	RefSoil_691	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces venezuelae	RefSoil	Genome.P	8226158
+1576	RefSoil_692	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Dehalobacter		RefSoil	Genome.P	3069953
+1577	RefSoil_693	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Dehalobacter		RefSoil	Genome.P	3092048
+1578	RefSoil_694	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanolobus	Methanolobus psychrophilus	RefSoil	Genome.P	3072769
+1579	RefSoil_695	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus thuringiensis	RefSoil	Genome.P	6134344
+1580	RefSoil_696	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Bordetella	Bordetella bronchiseptica	RefSoil	Genome.P	5264383
+1581	RefSoil_697	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bdellovibrionaceae	Bdellovibrio	Bdellovibrio bacteriovorus	RefSoil	Genome.P	3988594
+1582	RefSoil_698	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		RefSoil	Genome.P	6183388
+1583	RefSoil_699	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Saccharothrix	Saccharothrix espanaensis	RefSoil	Genome.P	9360653
+1584	RefSoil_7	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus halodurans	RefSoil	Genome.P	4202352
+1585	RefSoil_70	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus clausii	RefSoil	Genome.P	4303871
+1586	RefSoil_700	Cyanobacteria		Nostocales	Nostocaceae	Nostoc		RefSoil	Genome.P	6329823
+1587	RefSoil_701	Cyanobacteria		Nostocales	Rivulariaceae	Rivularia		RefSoil	Genome.P	8728773
+1588	RefSoil_702	Cyanobacteria		Chroococcales		Synechococcus		RefSoil	Genome.P	3720499
+1589	RefSoil_703	Cyanobacteria		Oscillatoriales		Leptolyngbya		RefSoil	Genome.P	5125950
+1590	RefSoil_704	Cyanobacteria		Pleurocapsales		Pleurocapsa	Pleurocapsa minor	RefSoil	Genome.P	4986817
+1591	RefSoil_705	Cyanobacteria		Oscillatoriales		Oscillatoria	Oscillatoria acuminata	RefSoil	Genome.P	7804270
+1592	RefSoil_706	Cyanobacteria		Pleurocapsales		Chroococcidiopsis	Chroococcidiopsis thermalis	RefSoil	Genome.P	6689401
+1593	RefSoil_707	Cyanobacteria		Oscillatoriales		Pseudanabaena		RefSoil	Genome.P	4885680
+1594	RefSoil_708	Cyanobacteria		Chroococcales		Synechococcus		RefSoil	Genome.P	3583735
+1595	RefSoil_709	Cyanobacteria		Oscillatoriales		Geitlerinema		RefSoil	Genome.P	4681111
+1596	RefSoil_71	Euryarchaeota	Thermococci	Thermococcales	Thermococcaceae	Thermococcus	Thermococcus kodakarensis	RefSoil	Genome.P	2088737
+1597	RefSoil_710	Cyanobacteria		Oscillatoriales		Oscillatoria	Oscillatoria nigro-viridis	RefSoil	Genome.P	8272254
+1598	RefSoil_711	Cyanobacteria		Oscillatoriales		Microcoleus		RefSoil	Genome.P	7966510
+1599	RefSoil_712	Cyanobacteria		Chroococcales		Gloeocapsa		RefSoil	Genome.P	5882710
+1600	RefSoil_713	Cyanobacteria		Pleurocapsales		Stanieria	Stanieria cyanosphaera	RefSoil	Genome.P	5544990
+1601	RefSoil_714	Cyanobacteria		Nostocales	Nostocaceae	Cylindrospermum	Cylindrospermum stagnale	RefSoil	Genome.P	7610589
+1602	RefSoil_715	Cyanobacteria		Chroococcales		Cyanobacterium	Cyanobacterium aponinum	RefSoil	Genome.P	4176973
+1603	RefSoil_716	Cyanobacteria		Chroococcales		Dactylococcopsis	Dactylococcopsis salina	RefSoil	Genome.P	3781008
+1604	RefSoil_717	Deinococcus-Thermus	Deinococci	Deinococcales	Deinococcaceae	Deinococcus	Deinococcus peraridilitoris	RefSoil	Genome.P	4513714
+1605	RefSoil_718	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus methylotrophicus	RefSoil	Genome.P	3961368
+1606	RefSoil_719	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Sinorhizobium	Sinorhizobium meliloti	RefSoil	Genome.P	7141709
+1607	RefSoil_720	Planctomycetes	Planctomycetia	Planctomycetales	Isosphaeraceae	Singulisphaera	Singulisphaera acidiphila	RefSoil	Genome.P	9755686
+1608	RefSoil_721	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Thermobacillus	Thermobacillus composti	RefSoil	Genome.P	4355525
+1609	RefSoil_722	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfitobacterium	Desulfitobacterium dichloroeliminans	RefSoil	Genome.P	3624449
+1610	RefSoil_723	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas stutzeri	RefSoil	Genome.P	4600489
+1611	RefSoil_724	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Mesorhizobium	Mesorhizobium australicum	RefSoil	Genome.P	6200534
+1612	RefSoil_725	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium	Rhizobium tropici	RefSoil	Genome.P	6686334
+1613	RefSoil_726	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium tuberculosis	RefSoil	Genome.P	4421197
+1614	RefSoil_727	Proteobacteria	Deltaproteobacteria	Myxococcales	Myxococcaceae	Myxococcus	Myxococcus stipitatus	RefSoil	Genome.P	10350586
+1615	RefSoil_728	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus warneri	RefSoil	Genome.P	2560716
+1616	RefSoil_729	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus faecium	RefSoil	Genome.P	2849891
+1617	RefSoil_73	Proteobacteria	Alphaproteobacteria	Rickettsiales	Anaplasmataceae	Ehrlichia	Ehrlichia ruminantium	RefSoil	Genome.P	1499920
+1618	RefSoil_730	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas poae	RefSoil	Genome.P	5512241
+1619	RefSoil_731	Firmicutes	Bacilli	Bacillales	Bacillaceae	Geobacillus		RefSoil	Genome.P	3583134
+1620	RefSoil_732	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Serratia	Serratia marcescens	RefSoil	Genome.P	5244703
+1621	RefSoil_733	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus thuringiensis	RefSoil	Genome.P	5908575
+1622	RefSoil_734	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus subtilis	RefSoil	Genome.P	4061186
+1623	RefSoil_735	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus amyloliquefaciens	RefSoil	Genome.P	3936866
+1624	RefSoil_736	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium saccharoperbutylacetonicum	RefSoil	Genome.P	6666445
+1625	RefSoil_737	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium halotolerans	RefSoil	Genome.P	3222008
+1626	RefSoil_738	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus thuringiensis	RefSoil	Genome.P	6771593
+1627	RefSoil_739	Chloroflexi	Dehalococcoidia	Dehalococcoidales	Dehalococcoidaceae	Dehalococcoides	Dehalococcoides mccartyi	RefSoil	Genome.P	1431902
+1628	RefSoil_74	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Xanthomonas	Xanthomonas oryzae	RefSoil	Genome.P	4941439
+1629	RefSoil_740	Chloroflexi	Dehalococcoidia	Dehalococcoidales	Dehalococcoidaceae	Dehalococcoides	Dehalococcoides mccartyi	RefSoil	Genome.P	1452335
+1630	RefSoil_741	Proteobacteria	Betaproteobacteria					RefSoil	Genome.P	2045720
+1631	RefSoil_742	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Morganella	Morganella morganii	RefSoil	Genome.P	3799539
+1632	RefSoil_743	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bradyrhizobium	Bradyrhizobium oligotrophicum	RefSoil	Genome.P	8264165
+1633	RefSoil_744	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces davawensis	RefSoil	Genome.P	9555950
+1634	RefSoil_745	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium callunae	RefSoil	Genome.P	2928683
+1635	RefSoil_746	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus subtilis	RefSoil	Genome.P	4215610
+1636	RefSoil_747	Proteobacteria	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Azoarcus		RefSoil	Genome.P	5818755
+1637	RefSoil_748	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium glutamicum	RefSoil	Genome.P	3309400
+1638	RefSoil_749	Actinobacteria	Acidimicrobiia	Acidimicrobiales	Acidimicrobiaceae	Ilumatobacter	Ilumatobacter coccineus	RefSoil	Genome.P	4830181
+1639	RefSoil_75	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Salmonella	Salmonella enterica	RefSoil	Genome.P	4944000
+1640	RefSoil_750	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Sinorhizobium	Sinorhizobium meliloti	RefSoil	Genome.P	6693185
+1641	RefSoil_751	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Rhodanobacteraceae	Rhodanobacter		RefSoil	Genome.P	4225490
+1642	RefSoil_752	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		RefSoil	Genome.P	4633613
+1643	RefSoil_753	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Ralstonia	Ralstonia solanacearum	RefSoil	Genome.P	5805250
+1644	RefSoil_754	Proteobacteria	Alphaproteobacteria			Micavibrio	Micavibrio aeruginosavorus	RefSoil	Genome.P	2458610
+1645	RefSoil_755	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bdellovibrionaceae	Bdellovibrio	Bdellovibrio exovorus	RefSoil	Genome.P	2657893
+1646	RefSoil_756	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas denitrificans	RefSoil	Genome.P	5696307
+1647	RefSoil_757	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus subtilis	RefSoil	Genome.P	4021944
+1648	RefSoil_758	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium	[Clostridium] stercorarium	RefSoil	Genome.P	2970010
+1649	RefSoil_759	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces hygroscopicus	RefSoil	Genome.P	10091185
+1650	RefSoil_76	Proteobacteria	Alphaproteobacteria	Rhizobiales	Brucellaceae	Brucella	Brucella abortus	RefSoil	Genome.P	3286445
+1651	RefSoil_760	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas aeruginosa	RefSoil	Genome.P	6421010
+1652	RefSoil_761	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces albus	RefSoil	Genome.P	6841649
+1653	RefSoil_762	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces		RefSoil	Genome.P	7630245
+1654	RefSoil_763	Crenarchaeota	Thermoprotei	Sulfolobales	Sulfolobaceae	Sulfolobus	Sulfolobus islandicus	RefSoil	Genome.P	2465177
+1655	RefSoil_764	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Raoultella	Raoultella ornithinolytica	RefSoil	Genome.P	5398151
+1656	RefSoil_765	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Azotobacter	Azotobacter vinelandii	RefSoil	Genome.P	5366370
+1657	RefSoil_766	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Azotobacter	Azotobacter vinelandii	RefSoil	Genome.P	5323210
+1658	RefSoil_767	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus		RefSoil	Genome.P	4815602
+1659	RefSoil_768	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Hyphomicrobium	Hyphomicrobium denitrificans	RefSoil	Genome.P	3808687
+1660	RefSoil_769	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia thailandensis	RefSoil	Genome.P	6731379
+1661	RefSoil_77	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium glutamicum	RefSoil	Genome.P	3282708
+1662	RefSoil_770	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Salmonella	Salmonella enterica	RefSoil	Genome.P	4791958
+1663	RefSoil_771	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces fulvissimus	RefSoil	Genome.P	7905758
+1664	RefSoil_772	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium pasteurianum	RefSoil	Genome.P	5044100
+1665	RefSoil_773	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfotomaculum	Desulfotomaculum gibsoniae	RefSoil	Genome.P	4855529
+1666	RefSoil_774	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Actinoplanes		RefSoil	Genome.P	9228054
+1667	RefSoil_775	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium avium	RefSoil	Genome.P	4829424
+1668	RefSoil_776	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas protegens	RefSoil	Genome.P	6867980
+1669	RefSoil_777	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus paralicheniformis	RefSoil	Genome.P	4376305
+1670	RefSoil_778	Armatimonadetes	Chthonomonadetes	Chthonomonadales	Chthonomonadaceae	Chthonomonas	Chthonomonas calidirosea	RefSoil	Genome.P	3437861
+1671	RefSoil_779	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas putida	RefSoil	Genome.P	6870827
+1672	RefSoil_78	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Xanthomonas	Xanthomonas campestris	RefSoil	Genome.P	5148708
+1673	RefSoil_780	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter		RefSoil	Genome.P	5155034
+1674	RefSoil_781	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas aeruginosa	RefSoil	Genome.P	6342034
+1675	RefSoil_782	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Serratia	Serratia plymuthica	RefSoil	Genome.P	5403731
+1676	RefSoil_783	Euryarchaeota	Thermoplasmata	Thermoplasmatales	Ferroplasmaceae	Ferroplasma	Ferroplasma acidarmanus	RefSoil	Genome.P	1935211
+1677	RefSoil_784	Proteobacteria	Deltaproteobacteria	Myxococcales	Polyangiaceae	Sorangium	Sorangium cellulosum	RefSoil	Genome.P	14782125
+1678	RefSoil_785	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Serratia	Serratia plymuthica	RefSoil	Genome.P	5467306
+1679	RefSoil_786	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium terpenotabidum	RefSoil	Genome.P	2751233
+1680	RefSoil_787	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter baumannii	RefSoil	Genome.P	4042229
+1681	RefSoil_788	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter baumannii	RefSoil	Genome.P	4005822
+1682	RefSoil_789	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter baumannii	RefSoil	Genome.P	4053889
+1683	RefSoil_79	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium jeikeium	RefSoil	Genome.P	2476822
+1684	RefSoil_790	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Serratia	Serratia liquefaciens	RefSoil	Genome.P	5282719
+1685	RefSoil_791	Tenericutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Mycoplasma	Mycoplasma hyopneumoniae	RefSoil	Genome.P	898495
+1686	RefSoil_792	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Salmonella	Salmonella enterica	RefSoil	Genome.P	4915960
+1687	RefSoil_793	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium	Rhizobium etli	RefSoil	Genome.P	7197998
+1688	RefSoil_794	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces collinus	RefSoil	Genome.P	8377286
+1689	RefSoil_795	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Acetobacter	Acetobacter pasteurianus	RefSoil	Genome.P	3078647
+1690	RefSoil_796	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Proteus	Proteus mirabilis	RefSoil	Genome.P	3846754
+1691	RefSoil_797	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus	Paracoccus aminophilus	RefSoil	Genome.P	4873118
+1692	RefSoil_798	Firmicutes	Bacilli	Bacillales	Bacillaceae	Geobacillus		RefSoil	Genome.P	3486308
+1693	RefSoil_799	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus methylotrophicus	RefSoil	Genome.P	3889532
+1694	RefSoil_8	Euryarchaeota	Thermoplasmata	Thermoplasmatales	Thermoplasmataceae	Thermoplasma	Thermoplasma acidophilum	RefSoil	Genome.P	1564906
+1695	RefSoil_80	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus haemolyticus	RefSoil	Genome.P	2697861
+1696	RefSoil_800	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus	Rhodococcus erythropolis	RefSoil	Genome.P	6371421
+1697	RefSoil_801	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Variovorax	Variovorax paradoxus	RefSoil	Genome.P	7148516
+1698	RefSoil_802	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus	RefSoil	Genome.P	2728308
+1699	RefSoil_803	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Ralstonia	Ralstonia pickettii	RefSoil	Genome.P	8125850
+1700	RefSoil_804	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Klebsiella	Klebsiella pneumoniae	RefSoil	Genome.P	5166857
+1701	RefSoil_805	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium saccharobutylicum	RefSoil	Genome.P	5107814
+1702	RefSoil_806	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus amyloliquefaciens	RefSoil	Genome.P	3916828
+1703	RefSoil_807	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Actinoplanes	Actinoplanes friuliensis	RefSoil	Genome.P	9376071
+1704	RefSoil_808	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter coli	RefSoil	Genome.P	1685020
+1705	RefSoil_809	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium kansasii	RefSoil	Genome.P	6577228
+1706	RefSoil_81	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	Psychrobacter arcticus	RefSoil	Genome.P	2650701
+1707	RefSoil_810	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		RefSoil	Genome.P	5966222
+1708	RefSoil_811	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus toyonensis	RefSoil	Genome.P	5025419
+1709	RefSoil_812	Firmicutes	Bacilli	Bacillales		Exiguobacterium		RefSoil	Genome.P	3164195
+1710	RefSoil_813	Thermotogae	Thermotogae	Thermotogales	Thermotogaceae	Pseudothermotoga	Pseudothermotoga hypogea	RefSoil	Genome.P	2165165
+1711	RefSoil_814	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus thuringiensis	RefSoil	Genome.P	6672921
+1712	RefSoil_815	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Pandoraea	Pandoraea pnomenusa	RefSoil	Genome.P	5429298
+1713	RefSoil_816	Chloroflexi	Dehalococcoidia	Dehalococcoidales	Dehalococcoidaceae	Dehalococcoides	Dehalococcoides mccartyi	RefSoil	Genome.P	1407418
+1714	RefSoil_817	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Hyphomicrobium	Hyphomicrobium nitrativorans	RefSoil	Genome.P	3653837
+1715	RefSoil_818	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas aeruginosa	RefSoil	Genome.P	6580038
+1716	RefSoil_819	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus polymyxa	RefSoil	Genome.P	6019882
+1717	RefSoil_82	Proteobacteria	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Dechloromonas	Dechloromonas aromatica	RefSoil	Genome.P	4501104
+1718	RefSoil_820	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		RefSoil	Genome.P	7012672
+1719	RefSoil_821	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus amyloliquefaciens	RefSoil	Genome.P	3942754
+1720	RefSoil_822	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas monteilii	RefSoil	Genome.P	6000087
+1721	RefSoil_823	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas monteilii	RefSoil	Genome.P	5945120
+1722	RefSoil_824	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas aeruginosa	RefSoil	Genome.P	6725183
+1723	RefSoil_825	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces		RefSoil	Genome.P	7506727
+1724	RefSoil_826	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas syringae	RefSoil	Genome.P	5930035
+1725	RefSoil_827	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Agrobacterium	Agrobacterium tumefaciens	RefSoil	Genome.P	5114772
+1726	RefSoil_828	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Xanthomonas	Xanthomonas cassavae	RefSoil	Genome.P	5257164
+1727	RefSoil_829	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus		RefSoil	Genome.P	6231823
+1728	RefSoil_83	Actinobacteria	Actinobacteria	Streptosporangiales	Nocardiopsaceae	Thermobifida	Thermobifida fusca	RefSoil	Genome.P	3642249
+1729	RefSoil_830	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas moraviensis	RefSoil	Genome.P	6308316
+1730	RefSoil_831	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus anthracis	RefSoil	Genome.P	5504444
+1731	RefSoil_832	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus anthracis	RefSoil	Genome.P	5508663
+1732	RefSoil_833	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus anthracis	RefSoil	Genome.P	5504767
+1733	RefSoil_834	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Ralstonia	Ralstonia solanacearum	RefSoil	Genome.P	5659794
+1734	RefSoil_835	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Ralstonia	Ralstonia solanacearum	RefSoil	Genome.P	5645572
+1735	RefSoil_836	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Mesorhizobium	Mesorhizobium ciceri	RefSoil	Genome.P	7041479
+1736	RefSoil_837	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus anthracis	RefSoil	Genome.P	5504501
+1737	RefSoil_838	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus anthracis	RefSoil	Genome.P	5409446
+1738	RefSoil_839	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bdellovibrionaceae	Bdellovibrio	Bdellovibrio bacteriovorus	RefSoil	Genome.P	3006992
+1739	RefSoil_84	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanosarcina	Methanosarcina barkeri	RefSoil	Genome.P	4873766
+1740	RefSoil_840	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium tuberculosis	RefSoil	Genome.P	4407929
+1741	RefSoil_841	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Granulibacter	Granulibacter bethesdensis	RefSoil	Genome.P	2711143
+1742	RefSoil_842	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Advenella	Advenella mimigardefordensis	RefSoil	Genome.P	4764126
+1743	RefSoil_843	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus lehensis	RefSoil	Genome.P	3993073
+1744	RefSoil_844	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus	Rhodococcus opacus	RefSoil	Genome.P	9169032
+1745	RefSoil_845	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Klebsiella	Klebsiella pneumoniae	RefSoil	Genome.P	5739888
+1746	RefSoil_846	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus sabinae	RefSoil	Genome.P	5270569
+1747	RefSoil_847	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia thailandensis	RefSoil	Genome.P	6684359
+1748	RefSoil_848	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus thuringiensis	RefSoil	Genome.P	6766594
+1749	RefSoil_849	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Mesorhizobium	Mesorhizobium huakuii	RefSoil	Genome.P	6881675
+1750	RefSoil_85	Chloroflexi	Dehalococcoidia	Dehalococcoidales	Dehalococcoidaceae	Dehalococcoides	Dehalococcoides mccartyi	RefSoil	Genome.P	1395502
+1751	RefSoil_850	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Hymenobacter		RefSoil	Genome.P	5010594
+1752	RefSoil_851	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Sphingomonas sanxanigenens	RefSoil	Genome.P	6580298
+1753	RefSoil_852	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Xylella	Xylella fastidiosa	RefSoil	Genome.P	2780908
+1754	RefSoil_853	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus anthracis	RefSoil	Genome.P	5487517
+1755	RefSoil_854	Bacteroidetes	Bacteroidia	Bacteroidales				RefSoil	Genome.P	2657245
+1756	RefSoil_855	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Nocardia	Nocardia nova	RefSoil	Genome.P	8348532
+1757	RefSoil_856	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus polymyxa	RefSoil	Genome.P	5828436
+1758	RefSoil_857	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus methylotrophicus	RefSoil	Genome.P	4117023
+1759	RefSoil_858	Proteobacteria	Alphaproteobacteria	Rhizobiales	Brucellaceae	Brucella	Brucella suis	RefSoil	Genome.P	3315275
+1760	RefSoil_859	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas aeruginosa	RefSoil	Genome.P	6527005
+1761	RefSoil_86	Proteobacteria	Betaproteobacteria	Hydrogenophilales	Hydrogenophilaceae	Thiobacillus	Thiobacillus denitrificans	RefSoil	Genome.P	2909809
+1762	RefSoil_860	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium	Rhizobium etli	RefSoil	Genome.P	7057405
+1763	RefSoil_861	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Dehalobacter	Dehalobacter restrictus	RefSoil	Genome.P	2943336
+1764	RefSoil_862	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas cichorii	RefSoil	Genome.P	5986012
+1765	RefSoil_863	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Chania	Chania multitudinisentens	RefSoil	Genome.P	5488183
+1766	RefSoil_864	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium	Rhizobium leguminosarum	RefSoil	Genome.P	6903379
+1767	RefSoil_865	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium	Rhizobium leguminosarum	RefSoil	Genome.P	6703653
+1768	RefSoil_866	Armatimonadetes	Fimbriimonadia	Fimbriimonadales	Fimbriimonadaceae	Fimbriimonas	Fimbriimonas ginsengisoli	RefSoil	Genome.P	5231762
+1769	RefSoil_867	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Kutzneria	Kutzneria albida	RefSoil	Genome.P	9874926
+1770	RefSoil_868	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria ivanovii	RefSoil	Genome.P	2919538
+1771	RefSoil_869	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Sulfurospirillum	Sulfurospirillum multivorans	RefSoil	Genome.P	3175729
+1772	RefSoil_87	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Nitrobacter	Nitrobacter winogradskyi	RefSoil	Genome.P	3402093
+1773	RefSoil_870	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		RefSoil	Genome.P	2866963
+1774	RefSoil_871	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Agrobacterium	Agrobacterium tumefaciens	RefSoil	Genome.P	5630690
+1775	RefSoil_872	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Yersinia		RefSoil	Genome.P	4964409
+1776	RefSoil_873	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Ensifer	Ensifer adhaerens	RefSoil	Genome.P	7709009
+1777	RefSoil_874	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	Leptospirillum	Leptospirillum ferriphilum	RefSoil	Genome.P	2330585
+1778	RefSoil_875	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus subtilis	RefSoil	Genome.P	4039155
+1779	RefSoil_876	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		RefSoil	Genome.P	6652396
+1780	RefSoil_877	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		RefSoil	Genome.P	4731359
+1781	RefSoil_878	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Eubacterium	Eubacterium acidaminophilum	RefSoil	Genome.P	3055036
+1782	RefSoil_879	Proteobacteria	Alphaproteobacteria	Rickettsiales	Anaplasmataceae	Neorickettsia	Neorickettsia helminthoeca	RefSoil	Genome.P	884232
+1783	RefSoil_88	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia pseudomallei	RefSoil	Genome.P	7308054
+1784	RefSoil_880	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria		RefSoil	Genome.P	2904662
+1785	RefSoil_881	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		RefSoil	Genome.P	2988052
+1786	RefSoil_882	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Pandoraea		RefSoil	Genome.P	5378916
+1787	RefSoil_883	Actinobacteria	Rubrobacteria	Rubrobacterales	Rubrobacteraceae	Rubrobacter		RefSoil	Genome.P	3267233
+1788	RefSoil_884	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter	Enterobacter asburiae	RefSoil	Genome.P	4561905
+1789	RefSoil_885	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Citrobacter	Citrobacter freundii	RefSoil	Genome.P	5371331
+1790	RefSoil_886	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bradyrhizobium	Bradyrhizobium japonicum	RefSoil	Genome.P	9583027
+1791	RefSoil_887	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces		RefSoil	Genome.P	9372401
+1792	RefSoil_888	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas		RefSoil	Genome.P	4648976
+1793	RefSoil_889	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria		RefSoil	Genome.P	2906670
+1794	RefSoil_89	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fluorescens	RefSoil	Genome.P	6438405
+1795	RefSoil_890	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus thuringiensis	RefSoil	Genome.P	6520413
+1796	RefSoil_891	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus		RefSoil	Genome.P	5331737
+1797	RefSoil_892	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		RefSoil	Genome.P	6484062
+1798	RefSoil_893	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium		RefSoil	Genome.P	2900735
+1799	RefSoil_894	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		RefSoil	Genome.P	6085054
+1800	RefSoil_895	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bdellovibrionaceae	Bdellovibrio		RefSoil	Genome.P	3830427
+1801	RefSoil_896	Proteobacteria	Alphaproteobacteria	Rhizobiales	Brucellaceae	Brucella		RefSoil	Genome.P	3280310
+1802	RefSoil_897	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus anthracis	RefSoil	Genome.P	5506189
+1803	RefSoil_898	Proteobacteria	Alphaproteobacteria	Rhizobiales	Brucellaceae	Brucella		RefSoil	Genome.P	3289500
+1804	RefSoil_899	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus		RefSoil	Genome.P	5508355
+1805	RefSoil_9	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Mesorhizobium	Mesorhizobium loti	RefSoil	Genome.P	7596297
+1806	RefSoil_90	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rhodobacter	Rhodobacter sphaeroides	RefSoil	Genome.P	4602977
+1807	RefSoil_900	Proteobacteria	Alphaproteobacteria	Rhizobiales	Brucellaceae	Brucella	Brucella abortus	RefSoil	Genome.P	3279946
+1808	RefSoil_901	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus methanolicus	RefSoil	Genome.P	3425208
+1809	RefSoil_902	Proteobacteria	Alphaproteobacteria	Rhizobiales	Brucellaceae	Brucella	Brucella abortus	RefSoil	Genome.P	3286128
+1810	RefSoil_903	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia		RefSoil	Genome.P	8045250
+1811	RefSoil_904	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia		RefSoil	Genome.P	8147114
+1812	RefSoil_905	Proteobacteria	Alphaproteobacteria	Rhizobiales	Brucellaceae	Brucella	Brucella melitensis	RefSoil	Genome.P	3312958
+1813	RefSoil_906	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Azospirillum		RefSoil	Genome.P	7391279
+1814	RefSoil_907	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus subtilis	RefSoil	Genome.P	4188369
+1815	RefSoil_908	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium tuberculosis	RefSoil	Genome.P	4385518
+1816	RefSoil_909	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		RefSoil	Genome.P	7122173
+1817	RefSoil_91	Proteobacteria	Deltaproteobacteria	Desulfuromonadales	Pelobacteraceae	Pelobacter	Pelobacter carbinolicus	RefSoil	Genome.P	3665893
+1818	RefSoil_910	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus subtilis	RefSoil	Genome.P	4193640
+1819	RefSoil_911	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia		RefSoil	Genome.P	7281867
+1820	RefSoil_912	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus		RefSoil	Genome.P	5229650
+1821	RefSoil_913	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia xenovorans	RefSoil	Genome.P	9702951
+1822	RefSoil_914	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Klebsiella		RefSoil	Genome.P	6311385
+1823	RefSoil_915	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus		RefSoil	Genome.P	5490124
+1824	RefSoil_916	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Pelosinus		RefSoil	Genome.P	5115410
+1825	RefSoil_917	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Rhodanobacteraceae	Dyella	Dyella japonica	RefSoil	Genome.P	4831185
+1826	RefSoil_918	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		RefSoil	Genome.P	6064456
+1827	RefSoil_919	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Providencia		RefSoil	Genome.P	4334817
+1828	RefSoil_92	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Xanthomonas	Xanthomonas euvesicatoria	RefSoil	Genome.P	5420152
+1829	RefSoil_920	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium		RefSoil	Genome.P	2338144
+1830	RefSoil_921	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		RefSoil	Genome.P	1844804
+1831	RefSoil_922	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Yersinia		RefSoil	Genome.P	4806594
+1832	RefSoil_923	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia	Escherichia coli	RefSoil	Genome.P	5639399
+1833	RefSoil_924	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus		RefSoil	Genome.P	2968500
+1834	RefSoil_925	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Serratia	Serratia marcescens	RefSoil	Genome.P	5113802
+1835	RefSoil_926	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium		RefSoil	Genome.P	7038809
+1836	RefSoil_927	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Neorhizobium	Neorhizobium galegae	RefSoil	Genome.P	6455027
+1837	RefSoil_928	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Neorhizobium	Neorhizobium galegae	RefSoil	Genome.P	6413184
+1838	RefSoil_93	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia		RefSoil	Genome.P	8676277
+1839	RefSoil_94	Chlorobi	Chlorobia	Chlorobiales	Chlorobiaceae	Pelodictyon	Pelodictyon luteolum	RefSoil	Genome.P	2364842
+1840	RefSoil_95	Chlorobi	Chlorobia	Chlorobiales	Chlorobiaceae	Chlorobium	Chlorobium chlorochromatii	RefSoil	Genome.P	2572079
+1841	RefSoil_96	Proteobacteria	Deltaproteobacteria	Desulfuromonadales	Geobacteraceae	Geobacter	Geobacter metallireducens	RefSoil	Genome.P	4011182
+1842	RefSoil_97	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	Desulfovibrio alaskensis	RefSoil	Genome.P	3730232
+1843	RefSoil_98	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus anthracis	RefSoil	Genome.P	5503926
+1844	RefSoil_99	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Shigella	Shigella boydii	RefSoil	Genome.P	4646520

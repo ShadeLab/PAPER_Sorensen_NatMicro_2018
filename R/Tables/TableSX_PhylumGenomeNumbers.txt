@@ -1,0 +1,44 @@
+Phylum	Genomes
+Chlorobi	21
+Crenarchaeota	224
+Acidobacteria	68
+Bacteroidetes	1900
+Proteobacteria	23638
+Planctomycetes	104
+Bacteria	48637
+Cyanobacteria	391
+Chloroflexi	154
+Verrucomicrobia	96
+Nitrospirae	49
+Actinobacteria	6075
+Armatimonadetes	13
+candidate division TM6	1
+Gemmatimonadetes	26
+Chlamydiae	270
+Elusimicrobia	42
+Candidatus Parcubacteria	60
+Firmicutes	14186
+candidate division WPS-2	8
+Euryarchaeota	651
+Candidatus Parvarchaeota	7
+OP11	0
+Spirochaetes	746
+Fusobacteria	132
+Candidatus Omnitrophica	60
+BRC1	2
+WS1	1
+Tenericutes	336
+candidate division GAL15	3
+Candidatus Saccharibacteria	47
+Unclassified	0
+FBP	0
+Fibrobacteres	30
+Archaea	882
+NC10	0
+Candidatus Aerophobetes	4
+Deferribacteres	51
+Deinococcus-Thermus	74
+Candidatus Fervidibacteria	13
+Aquificae	36
+Lentisphaerae	8
+cadidate division SR1	0

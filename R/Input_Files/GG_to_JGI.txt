@@ -1,0 +1,13 @@
+NKB19	BRC1
+GAL15	candidate division GAL15
+SR1	candidate division SR1
+TM6	candidate division TM6
+WPS-2	candidate division WPS-2
+BHI80-139	Candidatus Aerophobetes
+OctSpA1-106	Candidatus Fervidibacteria
+OP3	Candidatus Omnitrophica
+OD1	Candidatus Parcubacteria
+Parvarchaeota	Candidatus Parvarchaeota
+TM7	Candidatus Saccharibacteria
+Caldithrix	Deferribacteres
+Thermi	Deinococcus-Thermus

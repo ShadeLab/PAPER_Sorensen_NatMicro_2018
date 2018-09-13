@@ -1,0 +1,10 @@
+run("Set Scale...", "distance=15.1515 known=1 pixel=1 unit=µm");
+run("Duplicate...", "title=cellsize_1");
+run("Subtract Background...", "rolling=35");
+run("8-bit");
+run("Auto Local Threshold", "method=Bernsen radius=12 parameter_1=0 parameter_2=0 white");
+run("Invert");
+run("Fill Holes");
+run("Watershed");
+run("Set Measurements...", "area mean standard min perimeter fit shape area_fraction");  
+run("Analyze Particles...", "size=0.02-10.00 show=Outlines display exclude include summarize");

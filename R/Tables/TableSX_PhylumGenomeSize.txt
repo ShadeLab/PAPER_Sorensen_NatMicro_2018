@@ -1,0 +1,42 @@
+Phylum	Genomes	AverageGenomeSize
+Chlorobi	19	2749047
+Crenarchaeota	220	1775223.20909091
+Acidobacteria	67	4057748.7761194
+Bacteroidetes	1878	3991705.43077742
+Proteobacteria	22413	4488013.38392897
+Planctomycetes	104	4111905.625
+Bacteria	0	NA
+Cyanobacteria	388	4076303.54896907
+Chloroflexi	143	1897391.31468531
+Verrucomicrobia	96	2741637.77083333
+Nitrospirae	47	2444420.85106383
+Actinobacteria	5309	4205881.02467508
+Armatimonadetes	11	2718163.09090909
+candidate division TM6	0	NA
+Gemmatimonadetes	25	2694395.88
+Chlamydiae	235	1112876.75744681
+Elusimicrobia	38	2189501.81578947
+Candidatus Parcubacteria	59	533012.593220339
+Firmicutes	12408	2697810.301902
+candidate division WPS-2	8	712424.25
+Euryarchaeota	651	2728641.71735791
+Candidatus Parvarchaeota	7	343948.857142857
+OP11	0	NA
+Spirochaetes	746	3433293.25603217
+Fusobacteria	118	2309809.30508475
+Candidatus Omnitrophica	60	1422730.15
+BRC1	2	1778988.5
+WS1	0	NA
+Tenericutes	311	882865.861736334
+candidate division GAL15	3	501639.666666667
+Candidatus Saccharibacteria	44	805865.25
+Unclassified	0	NA
+FBP	0	NA
+Fibrobacteres	26	3624755.73076923
+Archaea	0	NA
+NC10	3	3841797
+Candidatus Aerophobetes	3	759472
+Deferribacteres	47	840132.957446808
+Deinococcus-Thermus	73	3008831.79452055
+Candidatus Fervidibacteria	13	1381710.76923077
+Aquificae	34	1647632.17647059
