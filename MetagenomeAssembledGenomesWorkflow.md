@@ -26,6 +26,7 @@ samtools index -b Sorted_BAM_files/*
 ```
 ## Genome Binning using METABAT
 ```
+jgi_summarize_bam_contig_depths --outputDepth depth_20141007.txt *.bam
 metabat -i ../Megahit_QC_Assembly/final.contigs.fa -v -a depth_20141007.txt -o METABAT_VerySpecific --saveTNF saved.tnf --saveDistance saved.dist -t 40 --veryspecific
 ```
 ## Quality Checking and Identification using CheckM
